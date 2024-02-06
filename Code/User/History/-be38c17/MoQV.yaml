@@ -1,0 +1,7 @@
+keymap_procs:
+  <C-s>: { c: toggle-focus }
+  <C-a>: null
+keymap_tern:
+  reset: true
+  <C-s>: { c: toggle-focus }
+  <C-a>: null

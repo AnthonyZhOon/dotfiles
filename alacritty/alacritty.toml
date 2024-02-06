@@ -1,0 +1,9 @@
+[shell] 
+program = "/home/anthonyoon/.cargo/bin/nu"
+
+[env]
+TERM = "xterm-256color"
+
+[font.normal]
+family = "DroidSansM Nerd Font"
+style = "Regular"

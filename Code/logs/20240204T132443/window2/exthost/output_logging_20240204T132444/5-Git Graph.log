@@ -1,0 +1,29 @@
+[2024-02-04 13:24:46.310] Starting Git Graph ...
+[2024-02-04 13:24:46.351] Using git (version: 2.43.0)
+[2024-02-04 13:24:46.360] > git rev-parse --show-toplevel
+[2024-02-04 13:24:46.364] > git rev-parse --show-toplevel
+[2024-02-04 13:24:46.368] > git rev-parse --show-toplevel
+[2024-02-04 13:24:46.369] Showing "Git Graph" Status Bar Item
+[2024-02-04 13:24:46.370] Started Git Graph - Ready to use!
+[2024-02-04 13:24:47.458] Successfully set Visual Studio Code Context "git-graph:codiconsSupported" to "true"
+[2024-02-04 13:24:47.469] > git rev-parse --show-toplevel
+[2024-02-04 13:24:47.475] > git rev-parse --show-toplevel
+[2024-02-04 13:24:47.481] > git rev-parse --show-toplevel
+[2024-02-04 13:24:47.743] > git rev-parse --show-toplevel
+[2024-02-04 13:24:47.843] > git rev-parse --show-toplevel
+[2024-02-04 13:24:47.865] > git rev-parse --show-toplevel
+[2024-02-04 13:24:47.932] > git rev-parse --show-toplevel
+[2024-02-04 13:24:47.940] > git rev-parse --show-toplevel
+[2024-02-04 13:24:47.967] > git rev-parse --show-toplevel
+[2024-02-04 13:24:48.025] > git rev-parse --show-toplevel
+[2024-02-04 13:24:48.177] > git rev-parse --show-toplevel
+[2024-02-04 13:24:48.185] > git rev-parse --show-toplevel
+[2024-02-04 13:24:48.192] > git rev-parse --show-toplevel
+[2024-02-04 13:24:48.198] > git rev-parse --show-toplevel
+[2024-02-04 13:24:48.199] Added new repo: /home/anthonyoon/Documents/Code-Projects/rust/src/doc/nomicon
+[2024-02-04 13:24:48.200] Added new repo: /home/anthonyoon/Documents/Code-Projects/rust/src/doc/reference
+[2024-02-04 13:24:48.200] Added new repo: /home/anthonyoon/Documents/Code-Projects/rust/src/doc/rust-by-example
+[2024-02-04 13:24:48.200] Added new repo: /home/anthonyoon/Documents/Code-Projects/rust/src/doc/edition-guide
+[2024-02-04 13:24:48.200] Added new repo: /home/anthonyoon/Documents/Code-Projects/rust/src/doc/embedded-book
+[2024-02-04 13:24:48.201] Searching workspace for new repos ...
+[2024-02-04 13:24:48.201] Completed searching workspace for new repos

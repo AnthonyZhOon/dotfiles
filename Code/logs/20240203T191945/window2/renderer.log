@@ -1,0 +1,287 @@
+2024-02-03 23:39:57.472 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'registerIssueDataProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-02-03 23:39:57.674 [info] Started local extension host with pid 74864.
+2024-02-03 23:39:57.700 [info] Placing extension(s) vscodevim.vim on a separate extension host.
+2024-02-03 23:39:57.874 [info] Started local extension host with pid 74884.
+2024-02-03 23:40:00.305 [info] [perf] Render performance baseline is 17ms
+2024-02-03 23:40:00.841 [warning] [oracledevtools]: Couldn't find message for key treeItemDescffffff.
+2024-02-03 23:40:00.841 [warning] [oracledevtools]: Couldn't find message for key treeItemDescc6c6c6.
+2024-02-03 23:40:00.841 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc848484.
+2024-02-03 23:40:00.841 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc000000.
+2024-02-03 23:40:00.842 [warning] [oracledevtools]: Couldn't find message for key treeItemDescff0000.
+2024-02-03 23:40:00.842 [warning] [oracledevtools]: Couldn't find message for key treeItemDescffff00.
+2024-02-03 23:40:00.842 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc00ff00.
+2024-02-03 23:40:00.842 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc00f7f7.
+2024-02-03 23:40:00.842 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc0000ff.
+2024-02-03 23:40:00.842 [warning] [oracledevtools]: Couldn't find message for key treeItemDescff00ff.
+2024-02-03 23:40:00.842 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc840000.
+2024-02-03 23:40:00.842 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc848400.
+2024-02-03 23:40:00.842 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc008400.
+2024-02-03 23:40:00.842 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc008484.
+2024-02-03 23:40:00.842 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc000084.
+2024-02-03 23:40:00.842 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc840084.
+2024-02-03 23:40:00.842 [warning] [oracledevtools]: Couldn't find message for key treeItemDescf6f7f7.
+2024-02-03 23:40:00.842 [warning] [oracledevtools]: Couldn't find message for key treeItemDescffd5d4.
+2024-02-03 23:40:00.842 [warning] [oracledevtools]: Couldn't find message for key treeItemDescfedfd6.
+2024-02-03 23:40:00.842 [warning] [oracledevtools]: Couldn't find message for key treeItemDescfff0d9.
+2024-02-03 23:40:00.842 [warning] [oracledevtools]: Couldn't find message for key treeItemDescfff6d6.
+2024-02-03 23:40:00.842 [warning] [oracledevtools]: Couldn't find message for key treeItemDescf8ffd5.
+2024-02-03 23:40:00.842 [warning] [oracledevtools]: Couldn't find message for key treeItemDesce8fed8.
+2024-02-03 23:40:00.842 [warning] [oracledevtools]: Couldn't find message for key treeItemDescd6ffd6.
+2024-02-03 23:40:00.842 [warning] [oracledevtools]: Couldn't find message for key treeItemDescd6ffef.
+2024-02-03 23:40:00.842 [warning] [oracledevtools]: Couldn't find message for key treeItemDescd6ffff.
+2024-02-03 23:40:00.842 [warning] [oracledevtools]: Couldn't find message for key treeItemDescd6f7ff.
+2024-02-03 23:40:00.843 [warning] [oracledevtools]: Couldn't find message for key treeItemDescd6e7ff.
+2024-02-03 23:40:00.843 [warning] [oracledevtools]: Couldn't find message for key treeItemDescd6d6ff.
+2024-02-03 23:40:00.843 [warning] [oracledevtools]: Couldn't find message for key treeItemDescefd6ff.
+2024-02-03 23:40:00.843 [warning] [oracledevtools]: Couldn't find message for key treeItemDescffd6ff.
+2024-02-03 23:40:00.843 [warning] [oracledevtools]: Couldn't find message for key treeItemDescffd6ef.
+2024-02-03 23:40:00.843 [warning] [oracledevtools]: Couldn't find message for key treeItemDesce7e6e7.
+2024-02-03 23:40:00.843 [warning] [oracledevtools]: Couldn't find message for key treeItemDescfed4d2.
+2024-02-03 23:40:00.843 [warning] [oracledevtools]: Couldn't find message for key treeItemDescfedfd6.
+2024-02-03 23:40:00.843 [warning] [oracledevtools]: Couldn't find message for key treeItemDescfedeb4.
+2024-02-03 23:40:00.843 [warning] [oracledevtools]: Couldn't find message for key treeItemDescfeefb7.
+2024-02-03 23:40:00.843 [warning] [oracledevtools]: Couldn't find message for key treeItemDescfffdb7.
+2024-02-03 23:40:00.843 [warning] [oracledevtools]: Couldn't find message for key treeItemDesce5ffb5.
+2024-02-03 23:40:00.843 [warning] [oracledevtools]: Couldn't find message for key treeItemDescb5ffb5.
+2024-02-03 23:40:00.843 [warning] [oracledevtools]: Couldn't find message for key treeItemDescb5ffde.
+2024-02-03 23:40:00.843 [warning] [oracledevtools]: Couldn't find message for key treeItemDescb5ffff.
+2024-02-03 23:40:00.843 [warning] [oracledevtools]: Couldn't find message for key treeItemDescb5e7ff.
+2024-02-03 23:40:00.843 [warning] [oracledevtools]: Couldn't find message for key treeItemDescc6d6ff.
+2024-02-03 23:40:00.843 [warning] [oracledevtools]: Couldn't find message for key treeItemDescc6c6ff.
+2024-02-03 23:40:00.843 [warning] [oracledevtools]: Couldn't find message for key treeItemDescdeb5ff.
+2024-02-03 23:40:00.843 [warning] [oracledevtools]: Couldn't find message for key treeItemDescffb5ff.
+2024-02-03 23:40:00.843 [warning] [oracledevtools]: Couldn't find message for key treeItemDescffb5de.
+2024-02-03 23:40:00.843 [warning] [oracledevtools]: Couldn't find message for key treeItemDescd6d6d7.
+2024-02-03 23:40:00.843 [warning] [oracledevtools]: Couldn't find message for key treeItemDescfea6a3.
+2024-02-03 23:40:00.843 [warning] [oracledevtools]: Couldn't find message for key treeItemDescffbda5.
+2024-02-03 23:40:00.844 [warning] [oracledevtools]: Couldn't find message for key treeItemDescffd6a5.
+2024-02-03 23:40:00.844 [warning] [oracledevtools]: Couldn't find message for key treeItemDescfeeeb7.
+2024-02-03 23:40:00.844 [warning] [oracledevtools]: Couldn't find message for key treeItemDescfeff93.
+2024-02-03 23:40:00.844 [warning] [oracledevtools]: Couldn't find message for key treeItemDescd4ff92.
+2024-02-03 23:40:00.844 [warning] [oracledevtools]: Couldn't find message for key treeItemDesca5ffa5.
+2024-02-03 23:40:00.844 [warning] [oracledevtools]: Couldn't find message for key treeItemDesca5ffd6.
+2024-02-03 23:40:00.844 [warning] [oracledevtools]: Couldn't find message for key treeItemDesca5ffff.
+2024-02-03 23:40:00.844 [warning] [oracledevtools]: Couldn't find message for key treeItemDesca5e7ff.
+2024-02-03 23:40:00.844 [warning] [oracledevtools]: Couldn't find message for key treeItemDesca5c6ff.
+2024-02-03 23:40:00.844 [warning] [oracledevtools]: Couldn't find message for key treeItemDesca5a5ff.
+2024-02-03 23:40:00.844 [warning] [oracledevtools]: Couldn't find message for key treeItemDescd6a5ff.
+2024-02-03 23:40:00.844 [warning] [oracledevtools]: Couldn't find message for key treeItemDescffa5ff.
+2024-02-03 23:40:00.844 [warning] [oracledevtools]: Couldn't find message for key treeItemDescffa5d6.
+2024-02-03 23:40:00.844 [warning] [oracledevtools]: Couldn't find message for key treeItemDescc6c5c6.
+2024-02-03 23:40:00.844 [warning] [oracledevtools]: Couldn't find message for key treeItemDescff9494.
+2024-02-03 23:40:00.844 [warning] [oracledevtools]: Couldn't find message for key treeItemDescffa484.
+2024-02-03 23:40:00.844 [warning] [oracledevtools]: Couldn't find message for key treeItemDescffc686.
+2024-02-03 23:40:00.844 [warning] [oracledevtools]: Couldn't find message for key treeItemDescfede74.
+2024-02-03 23:40:00.844 [warning] [oracledevtools]: Couldn't find message for key treeItemDescfffe71.
+2024-02-03 23:40:00.844 [warning] [oracledevtools]: Couldn't find message for key treeItemDescd6ff84.
+2024-02-03 23:40:00.844 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc94fe93.
+2024-02-03 23:40:00.844 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc94ffcd.
+2024-02-03 23:40:00.844 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc85feff.
+2024-02-03 23:40:00.845 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc92defe.
+2024-02-03 23:40:00.845 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc93b5fe.
+2024-02-03 23:40:00.845 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc9593ff.
+2024-02-03 23:40:00.845 [warning] [oracledevtools]: Couldn't find message for key treeItemDescce94ff.
+2024-02-03 23:40:00.845 [warning] [oracledevtools]: Couldn't find message for key treeItemDescff84ff.
+2024-02-03 23:40:00.845 [warning] [oracledevtools]: Couldn't find message for key treeItemDescff94ce.
+2024-02-03 23:40:00.845 [warning] [oracledevtools]: Couldn't find message for key treeItemDescb4b4b5.
+2024-02-03 23:40:00.845 [warning] [oracledevtools]: Couldn't find message for key treeItemDescfe8383.
+2024-02-03 23:40:00.845 [warning] [oracledevtools]: Couldn't find message for key treeItemDescff9472.
+2024-02-03 23:40:00.845 [warning] [oracledevtools]: Couldn't find message for key treeItemDescffb667.
+2024-02-03 23:40:00.845 [warning] [oracledevtools]: Couldn't find message for key treeItemDescffde62.
+2024-02-03 23:40:00.845 [warning] [oracledevtools]: Couldn't find message for key treeItemDescffff42.
+2024-02-03 23:40:00.845 [warning] [oracledevtools]: Couldn't find message for key treeItemDescc5fe63.
+2024-02-03 23:40:00.845 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc72ff70.
+2024-02-03 23:40:00.845 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc73ffbe.
+2024-02-03 23:40:00.845 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc73ffff.
+2024-02-03 23:40:00.845 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc86d6ff.
+2024-02-03 23:40:00.845 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc83abfc.
+2024-02-03 23:40:00.845 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc8484fd.
+2024-02-03 23:40:00.845 [warning] [oracledevtools]: Couldn't find message for key treeItemDescc684ff.
+2024-02-03 23:40:00.845 [warning] [oracledevtools]: Couldn't find message for key treeItemDescff73ff.
+2024-02-03 23:40:00.845 [warning] [oracledevtools]: Couldn't find message for key treeItemDescff84c6.
+2024-02-03 23:40:00.845 [warning] [oracledevtools]: Couldn't find message for key treeItemDesca6a5a5.
+2024-02-03 23:40:00.845 [warning] [oracledevtools]: Couldn't find message for key treeItemDescff6365.
+2024-02-03 23:40:00.846 [warning] [oracledevtools]: Couldn't find message for key treeItemDescff7a53.
+2024-02-03 23:40:00.846 [warning] [oracledevtools]: Couldn't find message for key treeItemDescffad54.
+2024-02-03 23:40:00.846 [warning] [oracledevtools]: Couldn't find message for key treeItemDescffd741.
+2024-02-03 23:40:00.846 [warning] [oracledevtools]: Couldn't find message for key treeItemDescffff00.
+2024-02-03 23:40:00.846 [warning] [oracledevtools]: Couldn't find message for key treeItemDescb7ff43.
+2024-02-03 23:40:00.846 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc63ff63.
+2024-02-03 23:40:00.846 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc62ffb6.
+2024-02-03 23:40:00.846 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc50fffe.
+2024-02-03 23:40:00.846 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc63cdfd.
+2024-02-03 23:40:00.846 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc72a3fd.
+2024-02-03 23:40:00.846 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc7473ff.
+2024-02-03 23:40:00.846 [warning] [oracledevtools]: Couldn't find message for key treeItemDescb563ff.
+2024-02-03 23:40:00.846 [warning] [oracledevtools]: Couldn't find message for key treeItemDescff52ff.
+2024-02-03 23:40:00.846 [warning] [oracledevtools]: Couldn't find message for key treeItemDescff63b5.
+2024-02-03 23:40:00.846 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc939393.
+2024-02-03 23:40:00.846 [warning] [oracledevtools]: Couldn't find message for key treeItemDescff5252.
+2024-02-03 23:40:00.846 [warning] [oracledevtools]: Couldn't find message for key treeItemDescff7442.
+2024-02-03 23:40:00.846 [warning] [oracledevtools]: Couldn't find message for key treeItemDescfd9c2f.
+2024-02-03 23:40:00.846 [warning] [oracledevtools]: Couldn't find message for key treeItemDescfdc700.
+2024-02-03 23:40:00.846 [warning] [oracledevtools]: Couldn't find message for key treeItemDescf8f702.
+2024-02-03 23:40:00.846 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc9eff02.
+2024-02-03 23:40:00.846 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc4ffe53.
+2024-02-03 23:40:00.846 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc53feae.
+2024-02-03 23:40:00.846 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc00fefc.
+2024-02-03 23:40:00.847 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc54c4fd.
+2024-02-03 23:40:00.847 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc508cfe.
+2024-02-03 23:40:00.847 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc6262fd.
+2024-02-03 23:40:00.847 [warning] [oracledevtools]: Couldn't find message for key treeItemDescad51ff.
+2024-02-03 23:40:00.847 [warning] [oracledevtools]: Couldn't find message for key treeItemDescfe41ff.
+2024-02-03 23:40:00.847 [warning] [oracledevtools]: Couldn't find message for key treeItemDescfe53ae.
+2024-02-03 23:40:00.847 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc737373.
+2024-02-03 23:40:00.847 [warning] [oracledevtools]: Couldn't find message for key treeItemDescff4143.
+2024-02-03 23:40:00.847 [warning] [oracledevtools]: Couldn't find message for key treeItemDescff5921.
+2024-02-03 23:40:00.847 [warning] [oracledevtools]: Couldn't find message for key treeItemDescff8300.
+2024-02-03 23:40:00.847 [warning] [oracledevtools]: Couldn't find message for key treeItemDescf7b400.
+2024-02-03 23:40:00.847 [warning] [oracledevtools]: Couldn't find message for key treeItemDesce6e801.
+2024-02-03 23:40:00.847 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc93f600.
+2024-02-03 23:40:00.847 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc01ff00.
+2024-02-03 23:40:00.847 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc01ff83.
+2024-02-03 23:40:00.847 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc00f6f5.
+2024-02-03 23:40:00.847 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc42c6fe.
+2024-02-03 23:40:00.847 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc4284ff.
+2024-02-03 23:40:00.847 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc5152ff.
+2024-02-03 23:40:00.848 [warning] [oracledevtools]: Couldn't find message for key treeItemDesca542ff.
+2024-02-03 23:40:00.848 [warning] [oracledevtools]: Couldn't find message for key treeItemDescff21ff.
+2024-02-03 23:40:00.848 [warning] [oracledevtools]: Couldn't find message for key treeItemDescff42a4.
+2024-02-03 23:40:00.848 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc636363.
+2024-02-03 23:40:00.848 [warning] [oracledevtools]: Couldn't find message for key treeItemDescfe2121.
+2024-02-03 23:40:00.848 [warning] [oracledevtools]: Couldn't find message for key treeItemDescff4200.
+2024-02-03 23:40:00.848 [warning] [oracledevtools]: Couldn't find message for key treeItemDesce47504.
+2024-02-03 23:40:00.848 [warning] [oracledevtools]: Couldn't find message for key treeItemDescd49c00.
+2024-02-03 23:40:00.848 [warning] [oracledevtools]: Couldn't find message for key treeItemDescc4c500.
+2024-02-03 23:40:00.848 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc83d700.
+2024-02-03 23:40:00.848 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc00e700.
+2024-02-03 23:40:00.848 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc01e773.
+2024-02-03 23:40:00.848 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc01d5d4.
+2024-02-03 23:40:00.848 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc01adfd.
+2024-02-03 23:40:00.848 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc3272ff.
+2024-02-03 23:40:00.848 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc3030fe.
+2024-02-03 23:40:00.848 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc9421fe.
+2024-02-03 23:40:00.848 [warning] [oracledevtools]: Couldn't find message for key treeItemDescff00fd.
+2024-02-03 23:40:00.848 [warning] [oracledevtools]: Couldn't find message for key treeItemDescfa2193.
+2024-02-03 23:40:00.848 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc525251.
+2024-02-03 23:40:00.848 [warning] [oracledevtools]: Couldn't find message for key treeItemDescff0102.
+2024-02-03 23:40:00.848 [warning] [oracledevtools]: Couldn't find message for key treeItemDesce63801.
+2024-02-03 23:40:00.848 [warning] [oracledevtools]: Couldn't find message for key treeItemDescd56b00.
+2024-02-03 23:40:00.848 [warning] [oracledevtools]: Couldn't find message for key treeItemDescc69300.
+2024-02-03 23:40:00.848 [warning] [oracledevtools]: Couldn't find message for key treeItemDescb5b500.
+2024-02-03 23:40:00.849 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc74c500.
+2024-02-03 23:40:00.849 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc00d601.
+2024-02-03 23:40:00.849 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc00d66b.
+2024-02-03 23:40:00.849 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc01c6c8.
+2024-02-03 23:40:00.849 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc0094e6.
+2024-02-03 23:40:00.849 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc0152ff.
+2024-02-03 23:40:00.849 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc2020fe.
+2024-02-03 23:40:00.849 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc8501fe.
+2024-02-03 23:40:00.849 [warning] [oracledevtools]: Couldn't find message for key treeItemDesce600e6.
+2024-02-03 23:40:00.849 [warning] [oracledevtools]: Couldn't find message for key treeItemDescff0085.
+2024-02-03 23:40:00.849 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc424242.
+2024-02-03 23:40:00.849 [warning] [oracledevtools]: Couldn't find message for key treeItemDesce80103.
+2024-02-03 23:40:00.849 [warning] [oracledevtools]: Couldn't find message for key treeItemDescc93103.
+2024-02-03 23:40:00.849 [warning] [oracledevtools]: Couldn't find message for key treeItemDescb35a01.
+2024-02-03 23:40:00.849 [warning] [oracledevtools]: Couldn't find message for key treeItemDesca57b00.
+2024-02-03 23:40:00.849 [warning] [oracledevtools]: Couldn't find message for key treeItemDesca6a500.
+2024-02-03 23:40:00.849 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc63a500.
+2024-02-03 23:40:00.849 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc00b300.
+2024-02-03 23:40:00.849 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc00b559.
+2024-02-03 23:40:00.849 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc00a3a4.
+2024-02-03 23:40:00.849 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc0084c5.
+2024-02-03 23:40:00.849 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc024aea.
+2024-02-03 23:40:00.849 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc0000ff.
+2024-02-03 23:40:00.849 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc7000e6.
+2024-02-03 23:40:00.849 [warning] [oracledevtools]: Couldn't find message for key treeItemDescc600c6.
+2024-02-03 23:40:00.850 [warning] [oracledevtools]: Couldn't find message for key treeItemDesce60073.
+2024-02-03 23:40:00.850 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc313031.
+2024-02-03 23:40:00.850 [warning] [oracledevtools]: Couldn't find message for key treeItemDescc60001.
+2024-02-03 23:40:00.850 [warning] [oracledevtools]: Couldn't find message for key treeItemDesca52801.
+2024-02-03 23:40:00.850 [warning] [oracledevtools]: Couldn't find message for key treeItemDesca35202.
+2024-02-03 23:40:00.850 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc926b00.
+2024-02-03 23:40:00.850 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc929400.
+2024-02-03 23:40:00.850 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc5a9400.
+2024-02-03 23:40:00.850 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc00a404.
+2024-02-03 23:40:00.850 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc00a450.
+2024-02-03 23:40:00.850 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc00948f.
+2024-02-03 23:40:00.850 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc026ba5.
+2024-02-03 23:40:00.850 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc0041c6.
+2024-02-03 23:40:00.850 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc0100d4.
+2024-02-03 23:40:00.850 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc6200c6.
+2024-02-03 23:40:00.850 [warning] [oracledevtools]: Couldn't find message for key treeItemDesca700a5.
+2024-02-03 23:40:00.850 [warning] [oracledevtools]: Couldn't find message for key treeItemDescc40060.
+2024-02-03 23:40:00.850 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc212121.
+2024-02-03 23:40:00.850 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc920000.
+2024-02-03 23:40:00.850 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc942100.
+2024-02-03 23:40:00.850 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc844200.
+2024-02-03 23:40:00.850 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc836400.
+2024-02-03 23:40:00.850 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc717201.
+2024-02-03 23:40:00.850 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc528401.
+2024-02-03 23:40:00.850 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc008500.
+2024-02-03 23:40:00.851 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc018443.
+2024-02-03 23:40:00.851 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc008485.
+2024-02-03 23:40:00.851 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc036494.
+2024-02-03 23:40:00.851 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc003193.
+2024-02-03 23:40:00.851 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc0000a6.
+2024-02-03 23:40:00.851 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc490094.
+2024-02-03 23:40:00.851 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc910091.
+2024-02-03 23:40:00.851 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc95014c.
+2024-02-03 23:40:00.851 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc101010.
+2024-02-03 23:40:00.851 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc730000.
+2024-02-03 23:40:00.851 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc731800.
+2024-02-03 23:40:00.851 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc623002.
+2024-02-03 23:40:00.851 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc634a01.
+2024-02-03 23:40:00.851 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc636401.
+2024-02-03 23:40:00.851 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc3a6300.
+2024-02-03 23:40:00.851 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc006100.
+2024-02-03 23:40:00.851 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc006232.
+2024-02-03 23:40:00.851 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc026365.
+2024-02-03 23:40:00.851 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc004871.
+2024-02-03 23:40:00.851 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc012173.
+2024-02-03 23:40:00.851 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc000085.
+2024-02-03 23:40:00.851 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc380171.
+2024-02-03 23:40:00.851 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc720073.
+2024-02-03 23:40:00.852 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc730038.
+2024-02-03 23:40:00.852 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc000000.
+2024-02-03 23:40:00.852 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc520000.
+2024-02-03 23:40:00.852 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc521000.
+2024-02-03 23:40:00.852 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc512700.
+2024-02-03 23:40:00.852 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc4f3800.
+2024-02-03 23:40:00.852 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc535203.
+2024-02-03 23:40:00.852 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc315200.
+2024-02-03 23:40:00.852 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc005100.
+2024-02-03 23:40:00.852 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc005026.
+2024-02-03 23:40:00.852 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc014f51.
+2024-02-03 23:40:00.852 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc003151.
+2024-02-03 23:40:00.852 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc001954.
+2024-02-03 23:40:00.852 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc000050.
+2024-02-03 23:40:00.852 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc2c0054.
+2024-02-03 23:40:00.852 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc530052.
+2024-02-03 23:40:00.852 [warning] [oracledevtools]: Couldn't find message for key treeItemDesc52012a.
+2024-02-03 23:41:43.975 [error] [Extension Host] (node:74864) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2024-02-04 00:09:36.088 [error] [Extension Host] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:991008)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-04 00:09:43.371 [error] [Extension Host] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:991008)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-04 00:09:45.130 [error] [Extension Host] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:991008)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-04 00:12:17.523 [warning] [File Watcher (parcel)] started ignoring events due to too many file change events at once (incoming: 4169, most recent change: /home/anthonyoon/Documents/Code Projects/rust/src/llvm-project/llvm/tools/llvm-reduce/llvm-reduce.cpp). Use 'files.watcherExclude' setting to exclude folders with lots of changing files (e.g. compilation output).
+2024-02-04 00:24:48.183 [error] [Extension Host] Error: spawn git ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:476:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2024-02-04 00:24:48.184 [error] [Extension Host] Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/bootstrap.js:1:471)
+	at process.emit (node:events:513:28)
+2024-02-04 00:24:49.185 [error] spawn git ENOENT: Error: spawn git ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:476:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)

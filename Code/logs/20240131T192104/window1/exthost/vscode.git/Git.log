@@ -1,0 +1,185 @@
+2024-01-31 19:21:06.941 [info] Log level: Info
+2024-01-31 19:21:06.941 [info] Validating found git in: "git"
+2024-01-31 19:21:06.941 [info] Using git "2.43.0" from "git"
+2024-01-31 19:27:10.770 [info] > git rev-parse --show-toplevel [5ms]
+2024-01-31 19:27:10.839 [info] > git rev-parse --show-toplevel [3ms]
+2024-01-31 19:49:47.455 [info] > git rev-parse --show-toplevel [1ms]
+2024-01-31 19:50:07.354 [info] > git rev-parse --show-toplevel [1ms]
+2024-01-31 19:50:17.471 [info] > git rev-parse --show-toplevel [1ms]
+2024-01-31 19:51:02.583 [info] Log level: Info
+2024-01-31 19:51:02.583 [info] Validating found git in: "git"
+2024-01-31 19:51:02.583 [info] Using git "2.43.0" from "git"
+2024-01-31 19:51:02.583 [info] > git rev-parse --show-toplevel [26ms]
+2024-01-31 19:51:02.588 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-01-31 19:51:02.591 [info] Open repository: /home/anthonyoon/Documents/Code Projects/zellij
+2024-01-31 19:51:02.601 [info] > git config --get commit.template [4ms]
+2024-01-31 19:51:02.601 [info] > git rev-parse --show-toplevel [1ms]
+2024-01-31 19:51:02.612 [info] > git rev-parse --show-toplevel [1ms]
+2024-01-31 19:51:02.612 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2024-01-31 19:51:02.622 [warning] ENOENT: no such file or directory, open '/home/anthonyoon/Documents/Code Projects/zellij/.git/refs/remotes/origin/main'
+2024-01-31 19:51:02.622 [info] > git rev-parse --show-toplevel [4ms]
+2024-01-31 19:51:02.627 [info] > git rev-parse refs/remotes/origin/main [5ms]
+2024-01-31 19:51:02.632 [info] > git rev-parse --show-toplevel [5ms]
+2024-01-31 19:51:02.662 [info] > git rev-parse --show-toplevel [25ms]
+2024-01-31 19:51:02.671 [info] > git rev-parse --show-toplevel [1ms]
+2024-01-31 19:51:02.683 [info] > git rev-parse --show-toplevel [1ms]
+2024-01-31 19:51:02.690 [info] > git status -z -uall [59ms]
+2024-01-31 19:51:02.690 [info] > git rev-parse --show-toplevel [3ms]
+2024-01-31 19:51:02.706 [info] > git rev-parse --show-toplevel [10ms]
+2024-01-31 19:51:02.718 [info] > git config --get commit.template [12ms]
+2024-01-31 19:51:02.725 [info] > git rev-parse --show-toplevel [8ms]
+2024-01-31 19:51:02.828 [info] > git rev-parse --show-toplevel [53ms]
+2024-01-31 19:51:02.828 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [57ms]
+2024-01-31 19:51:02.853 [warning] ENOENT: no such file or directory, open '/home/anthonyoon/Documents/Code Projects/zellij/.git/refs/remotes/origin/main'
+2024-01-31 19:51:02.869 [info] > git rev-parse refs/remotes/origin/main [15ms]
+2024-01-31 19:51:02.874 [info] > git rev-parse --show-toplevel [29ms]
+2024-01-31 19:51:02.885 [info] > git rev-parse --show-toplevel [1ms]
+2024-01-31 19:51:02.900 [info] > git rev-parse --show-toplevel [9ms]
+2024-01-31 19:51:02.938 [info] > git status -z -uall [64ms]
+2024-01-31 19:51:03.120 [info] > git check-ignore -v -z --stdin [1ms]
+2024-01-31 19:51:04.303 [info] > git show --textconv :Cross.toml [0ms]
+2024-01-31 19:51:04.325 [info] > git ls-files --stage -- /home/anthonyoon/Documents/Code Projects/zellij/Cross.toml [5ms]
+2024-01-31 19:51:05.474 [info] > git config --get commit.template [8ms]
+2024-01-31 19:51:05.512 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-01-31 19:51:05.526 [warning] ENOENT: no such file or directory, open '/home/anthonyoon/Documents/Code Projects/zellij/.git/refs/remotes/origin/main'
+2024-01-31 19:51:05.528 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-01-31 19:51:05.681 [info] > git status -z -uall [137ms]
+2024-01-31 19:51:06.214 [info] > git show --textconv :Cargo.toml [48ms]
+2024-01-31 19:51:06.243 [info] > git ls-files --stage -- /home/anthonyoon/Documents/Code Projects/zellij/Cargo.toml [61ms]
+2024-01-31 19:51:06.285 [info] > git cat-file -s f268c16bce93e0d774b9a0a81a7cf8c98c21ed7c [10ms]
+2024-01-31 19:51:10.856 [info] > git config --get commit.template [5ms]
+2024-01-31 19:51:10.882 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2024-01-31 19:51:10.907 [warning] ENOENT: no such file or directory, open '/home/anthonyoon/Documents/Code Projects/zellij/.git/refs/remotes/origin/main'
+2024-01-31 19:51:10.912 [info] > git rev-parse refs/remotes/origin/main [5ms]
+2024-01-31 19:51:11.036 [info] > git status -z -uall [97ms]
+2024-01-31 19:51:16.056 [info] > git config --get commit.template [2ms]
+2024-01-31 19:51:16.071 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-31 19:51:16.084 [warning] ENOENT: no such file or directory, open '/home/anthonyoon/Documents/Code Projects/zellij/.git/refs/remotes/origin/main'
+2024-01-31 19:51:16.085 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-01-31 19:51:16.192 [info] > git status -z -uall [94ms]
+2024-01-31 19:51:21.212 [info] > git config --get commit.template [1ms]
+2024-01-31 19:51:21.226 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-31 19:51:21.246 [warning] ENOENT: no such file or directory, open '/home/anthonyoon/Documents/Code Projects/zellij/.git/refs/remotes/origin/main'
+2024-01-31 19:51:21.247 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-01-31 19:51:21.372 [info] > git status -z -uall [100ms]
+2024-01-31 19:51:31.359 [info] > git config --get commit.template [7ms]
+2024-01-31 19:51:31.359 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-31 19:51:31.366 [warning] ENOENT: no such file or directory, open '/home/anthonyoon/Documents/Code Projects/zellij/.git/refs/remotes/origin/main'
+2024-01-31 19:51:31.367 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-01-31 19:51:31.424 [info] > git status -z -uall [51ms]
+2024-01-31 19:51:36.452 [info] > git config --get commit.template [1ms]
+2024-01-31 19:51:36.477 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-01-31 19:51:36.491 [warning] ENOENT: no such file or directory, open '/home/anthonyoon/Documents/Code Projects/zellij/.git/refs/remotes/origin/main'
+2024-01-31 19:51:36.492 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-01-31 19:51:36.616 [info] > git status -z -uall [107ms]
+2024-01-31 19:51:51.144 [info] > git config --get commit.template [6ms]
+2024-01-31 19:51:51.144 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-31 19:51:51.150 [warning] ENOENT: no such file or directory, open '/home/anthonyoon/Documents/Code Projects/zellij/.git/refs/remotes/origin/main'
+2024-01-31 19:51:51.150 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-01-31 19:51:51.207 [info] > git status -z -uall [52ms]
+2024-01-31 19:51:56.241 [info] > git config --get commit.template [13ms]
+2024-01-31 19:51:56.242 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-01-31 19:51:56.252 [warning] ENOENT: no such file or directory, open '/home/anthonyoon/Documents/Code Projects/zellij/.git/refs/remotes/origin/main'
+2024-01-31 19:51:56.253 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-01-31 19:51:56.315 [info] > git status -z -uall [56ms]
+2024-01-31 19:55:53.101 [info] > git show --textconv :Cross.toml [19ms]
+2024-01-31 19:55:53.104 [info] > git ls-files --stage -- /home/anthonyoon/Documents/Code Projects/zellij/Cross.toml [4ms]
+2024-01-31 19:56:01.522 [info] > git config --get commit.template [11ms]
+2024-01-31 19:56:01.523 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-31 19:56:01.531 [warning] ENOENT: no such file or directory, open '/home/anthonyoon/Documents/Code Projects/zellij/.git/refs/remotes/origin/main'
+2024-01-31 19:56:01.533 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-01-31 19:56:01.589 [info] > git status -z -uall [48ms]
+2024-01-31 19:56:21.662 [info] > git show --textconv :rust-toolchain.toml [11ms]
+2024-01-31 19:56:21.664 [info] > git ls-files --stage -- /home/anthonyoon/Documents/Code Projects/zellij/rust-toolchain.toml [3ms]
+2024-01-31 19:56:21.676 [info] > git cat-file -s c4f60e620ba532be469ec7b7c4980891dea388e3 [1ms]
+2024-01-31 19:56:34.340 [info] > git config --get commit.template [1ms]
+2024-01-31 19:56:34.354 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-01-31 19:56:34.363 [warning] ENOENT: no such file or directory, open '/home/anthonyoon/Documents/Code Projects/zellij/.git/refs/remotes/origin/main'
+2024-01-31 19:56:34.364 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-01-31 19:56:34.422 [info] > git status -z -uall [51ms]
+2024-01-31 19:56:39.448 [info] > git config --get commit.template [11ms]
+2024-01-31 19:56:39.449 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-01-31 19:56:39.458 [warning] ENOENT: no such file or directory, open '/home/anthonyoon/Documents/Code Projects/zellij/.git/refs/remotes/origin/main'
+2024-01-31 19:56:39.459 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-01-31 19:56:39.520 [info] > git status -z -uall [54ms]
+2024-01-31 19:56:44.556 [info] > git config --get commit.template [15ms]
+2024-01-31 19:56:44.558 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-01-31 19:56:44.568 [warning] ENOENT: no such file or directory, open '/home/anthonyoon/Documents/Code Projects/zellij/.git/refs/remotes/origin/main'
+2024-01-31 19:56:44.570 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-01-31 19:56:44.635 [info] > git status -z -uall [56ms]
+2024-01-31 19:56:57.225 [info] > git config --get commit.template [15ms]
+2024-01-31 19:56:57.226 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-01-31 19:56:57.235 [warning] ENOENT: no such file or directory, open '/home/anthonyoon/Documents/Code Projects/zellij/.git/refs/remotes/origin/main'
+2024-01-31 19:56:57.237 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-01-31 19:56:57.297 [info] > git status -z -uall [53ms]
+2024-01-31 19:57:51.501 [info] > git config --get commit.template [7ms]
+2024-01-31 19:57:51.502 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-31 19:57:51.510 [warning] ENOENT: no such file or directory, open '/home/anthonyoon/Documents/Code Projects/zellij/.git/refs/remotes/origin/main'
+2024-01-31 19:57:51.510 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-01-31 19:57:51.575 [info] > git status -z -uall [58ms]
+2024-01-31 19:58:12.011 [info] > git config --get commit.template [10ms]
+2024-01-31 19:58:12.012 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-31 19:58:12.019 [warning] ENOENT: no such file or directory, open '/home/anthonyoon/Documents/Code Projects/zellij/.git/refs/remotes/origin/main'
+2024-01-31 19:58:12.020 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-01-31 19:58:12.078 [info] > git status -z -uall [51ms]
+2024-01-31 19:58:17.111 [info] > git config --get commit.template [13ms]
+2024-01-31 19:58:17.112 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-01-31 19:58:17.122 [warning] ENOENT: no such file or directory, open '/home/anthonyoon/Documents/Code Projects/zellij/.git/refs/remotes/origin/main'
+2024-01-31 19:58:17.123 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-01-31 19:58:17.182 [info] > git status -z -uall [51ms]
+2024-01-31 19:58:23.664 [info] > git config --get commit.template [2ms]
+2024-01-31 19:58:23.673 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-31 19:58:23.679 [warning] ENOENT: no such file or directory, open '/home/anthonyoon/Documents/Code Projects/zellij/.git/refs/remotes/origin/main'
+2024-01-31 19:58:23.679 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-01-31 19:58:23.732 [info] > git status -z -uall [48ms]
+2024-01-31 19:58:28.761 [info] > git config --get commit.template [14ms]
+2024-01-31 19:58:28.762 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-01-31 19:58:28.773 [warning] ENOENT: no such file or directory, open '/home/anthonyoon/Documents/Code Projects/zellij/.git/refs/remotes/origin/main'
+2024-01-31 19:58:28.773 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-01-31 19:58:28.839 [info] > git status -z -uall [58ms]
+2024-01-31 19:59:19.611 [info] > git config --get commit.template [7ms]
+2024-01-31 19:59:19.611 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-31 19:59:19.616 [warning] ENOENT: no such file or directory, open '/home/anthonyoon/Documents/Code Projects/zellij/.git/refs/remotes/origin/main'
+2024-01-31 19:59:19.617 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-01-31 19:59:19.671 [info] > git status -z -uall [49ms]
+2024-01-31 20:00:34.689 [info] > git config --get commit.template [4ms]
+2024-01-31 20:00:34.713 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-31 20:00:34.720 [warning] ENOENT: no such file or directory, open '/home/anthonyoon/Documents/Code Projects/zellij/.git/refs/remotes/origin/main'
+2024-01-31 20:00:34.720 [info] > git rev-parse refs/remotes/origin/main [0ms]
+2024-01-31 20:00:34.774 [info] > git status -z -uall [48ms]
+2024-01-31 20:00:39.805 [info] > git config --get commit.template [13ms]
+2024-01-31 20:00:39.805 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-31 20:00:39.816 [warning] ENOENT: no such file or directory, open '/home/anthonyoon/Documents/Code Projects/zellij/.git/refs/remotes/origin/main'
+2024-01-31 20:00:39.817 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-01-31 20:00:39.880 [info] > git status -z -uall [53ms]
+2024-01-31 20:00:44.905 [info] > git config --get commit.template [1ms]
+2024-01-31 20:00:44.916 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [0ms]
+2024-01-31 20:00:44.921 [warning] ENOENT: no such file or directory, open '/home/anthonyoon/Documents/Code Projects/zellij/.git/refs/remotes/origin/main'
+2024-01-31 20:00:44.922 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-01-31 20:00:44.980 [info] > git status -z -uall [52ms]
+2024-01-31 20:00:54.434 [info] > git config --get commit.template [8ms]
+2024-01-31 20:00:54.434 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-31 20:00:54.439 [warning] ENOENT: no such file or directory, open '/home/anthonyoon/Documents/Code Projects/zellij/.git/refs/remotes/origin/main'
+2024-01-31 20:00:54.440 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-01-31 20:00:54.495 [info] > git status -z -uall [50ms]
+2024-01-31 20:04:53.436 [info] > git config --get commit.template [6ms]
+2024-01-31 20:04:53.437 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-31 20:04:53.441 [warning] ENOENT: no such file or directory, open '/home/anthonyoon/Documents/Code Projects/zellij/.git/refs/remotes/origin/main'
+2024-01-31 20:04:53.442 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-01-31 20:04:53.497 [info] > git status -z -uall [50ms]
+2024-01-31 20:04:58.533 [info] > git config --get commit.template [14ms]
+2024-01-31 20:04:58.534 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-01-31 20:04:58.546 [warning] ENOENT: no such file or directory, open '/home/anthonyoon/Documents/Code Projects/zellij/.git/refs/remotes/origin/main'
+2024-01-31 20:04:58.549 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2024-01-31 20:04:58.614 [info] > git status -z -uall [55ms]
+2024-01-31 20:04:59.345 [info] > git check-ignore -v -z --stdin [1ms]
+2024-01-31 20:05:02.545 [info] > git check-ignore -v -z --stdin [1ms]
+2024-01-31 20:05:06.557 [info] > git check-ignore -v -z --stdin [1ms]
+2024-01-31 20:05:09.088 [info] > git show --textconv :target/x86_64-unknown-linux-gnu/release/zellij.d [11ms]
+2024-01-31 20:05:09.089 [info] > git ls-files --stage -- /home/anthonyoon/Documents/Code Projects/zellij/target/x86_64-unknown-linux-gnu/release/zellij.d [2ms]
+2024-01-31 20:05:25.563 [info] > git check-ignore -v -z --stdin [1ms]
+2024-01-31 20:05:26.986 [info] > git check-ignore -v -z --stdin [1ms]
+2024-01-31 20:05:28.004 [info] > git check-ignore -v -z --stdin [1ms]
+2024-01-31 20:15:28.794 [info] > git rev-parse --show-toplevel [0ms]
+2024-01-31 20:15:28.794 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).

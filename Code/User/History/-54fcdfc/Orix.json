@@ -1,0 +1,125 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.minimap.enabled": false,
+    "oracledevtools.bookmarkFileFolder": "/home/anthonyoon/Oracle/oracle.oracledevtools",
+    "oracledevtools.download.otherFolder": "/home/anthonyoon/downloads",
+    "oracledevtools.connectionConfiguration.configFilesFolder": "/home/anthonyoon/Oracle/network/admin",
+    "[oraclesql]": {
+        "editor.suggest.showSnippets": true,
+        "editor.quickSuggestions": {
+            "comments": "on",
+            "strings": "on",
+            "other": "on"
+        }
+    },
+    "oracledevtools.connectionConfiguration.walletFileFolder": "/home/anthonyoon/Oracle/network/admin",
+    "remote.SSH.remotePlatform": {
+        "192.168.1.109": "windows"
+    },
+    "editor.fontFamily": "'DroidSansM Nerd Font'",
+    "workbench.colorTheme": "Tokyo Night AltSynt",
+    "terminal.external.linuxExec": "alacritty",
+    "terminal.integrated.profiles.linux": {
+        "bash": {
+            "path": "bash",
+            "icon": "terminal-bash"
+        },
+        "zsh": {
+            "path": "zsh"
+        },
+        "fish": {
+            "path": "fish"
+        },
+        "tmux": {
+            "path": "tmux",
+            "icon": "terminal-tmux"
+        },
+        "pwsh": {
+            "path": "pwsh",
+            "icon": "terminal-powershell"
+        },
+        "nu": {
+            "path": "/home/anthonyoon/.cargo/bin/nu",
+            "icon": "code"
+        }
+    },
+    "terminal.integrated.defaultProfile.linux": "nu",
+    "vim.easymotion": true,
+    "vim.incsearch": true,
+    "vim.useSystemClipboard": true,
+    "vim.useCtrlKeys": true,
+    "vim.hlsearch": true,
+    "vim.insertModeKeyBindings": [
+        {
+            "before": [
+                "j",
+                "j"
+            ],
+            "after": [
+                "<Esc>"
+            ]
+        }
+    ],
+    "vim.normalModeKeyBindingsNonRecursive": [
+        {
+            "before": [
+                "<leader>",
+                "d"
+            ],
+            "after": [
+                "d",
+                "d"
+            ]
+        },
+        {
+            "before": [
+                "<C-n>"
+            ],
+            "commands": [
+                ":nohl"
+            ]
+        },
+        {
+            "before": [
+                "K"
+            ],
+            "commands": [
+                "lineBreakInsert"
+            ],
+            "silent": true
+        }
+    ],
+    "vim.leader": "<space>",
+    "vim.handleKeys": {
+        "<C-a>": false,
+        "<C-f>": false
+    },
+    // "// To improve performance",
+    "extensions.experimental.affinity": {
+        "vscodevim.vim": 1
+    },
+    "oracledevtools.connections": [
+        {
+            "authenticationType": 2,
+            "dBAPrivilege": "None",
+            "userID": "ZOON0002",
+            "passwordSaved": false,
+            "dataSource": "ora-fit.ocio.monash.edu:1521/FITUGDB.ora-fit.ocio.monash.edu",
+            "connectionType": 2,
+            "databaseHostName": "ora-fit.ocio.monash.edu",
+            "databasePortNumber": "1521",
+            "databaseServiceName": "FITUGDB.ora-fit.ocio.monash.edu",
+            "tnsAdmin": "/home/anthonyoon/Oracle/network/admin",
+            "name": "UGDB",
+            "color": "0000ff",
+            "currentSchema": "",
+            "addSettingsScopeToConnectionName": false,
+            "addCurrentSchemaToConnectionName": false,
+            "filters": [],
+            "useCompatibleNamesDirectoryPath": true
+        }
+    ],
+    "oracledevtools.formatterSettings": {
+        
+    }
+}

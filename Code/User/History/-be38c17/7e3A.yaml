@@ -1,0 +1,3 @@
+keymap_procs:
+  <C- s>: { c: toggle-focus }
+  <C-

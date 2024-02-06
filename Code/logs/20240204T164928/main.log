@@ -1,0 +1,7 @@
+2024-02-04 16:49:28.416 [info] update#setState idle
+2024-02-04 16:49:58.417 [info] update#setState checking for updates
+2024-02-04 16:49:58.561 [info] update#setState idle
+2024-02-04 17:10:19.375 [info] Extension host with pid 38060 exited with code: 0, signal: unknown.
+2024-02-04 17:10:19.407 [error] Blocked vscode-file request vscode-file://vscode-app/home/anthonyoon/.vscode/extensions/oracle.oracledevtools-21.8.0/out/explorer/images/dark/execution-plan-grid_darkmode.svg
+2024-02-04 17:10:19.408 [error] Blocked vscode-file request vscode-file://vscode-app/home/anthonyoon/.vscode/extensions/oracle.oracledevtools-21.8.0/out/explorer/images/dark/execution-plan-text_darkmode.svg
+2024-02-04 17:10:21.395 [info] Extension host with pid 38008 exited with code: 0, signal: unknown.

@@ -1,0 +1,30 @@
+2024-02-04 00:37:40.800 [info] Extension host with pid 157600 started
+2024-02-04 00:37:40.800 [info] Skipping acquiring lock for /home/anthonyoon/.config/Code/User/workspaceStorage/ca1a43044957ed9d9a62ea784d9eb25d.
+2024-02-04 00:37:40.870 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-02-04 00:37:40.880 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-02-04 00:37:40.897 [info] Eager extensions activated
+2024-02-04 00:37:40.914 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-04 00:37:40.915 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-04 00:37:40.920 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2024-02-04 00:37:41.001 [info] Extension host with pid 157628 started
+2024-02-04 00:37:41.001 [info] Skipping acquiring lock for /home/anthonyoon/.config/Code/User/workspaceStorage/ca1a43044957ed9d9a62ea784d9eb25d.
+2024-02-04 00:37:41.034 [info] Eager extensions activated
+2024-02-04 00:37:41.079 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2024-02-04 00:37:43.909 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-02-04 00:37:43.941 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: false, activationEvent: '*'
+2024-02-04 00:37:43.970 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: false, activationEvent: '*', root cause: Oracle.oracledevtools
+2024-02-04 00:37:44.001 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+2024-02-04 00:37:44.043 [info] ExtensionService#_doActivateExtension Oracle.oracledevtools, startup: false, activationEvent: '*'
+2024-02-04 00:37:45.129 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-02-04 00:38:32.409 [info] ExtensionService#_doActivateExtension tamasfe.even-better-toml, startup: false, activationEvent: 'onLanguage:toml'
+2024-02-04 00:38:32.419 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-02-04 00:38:32.602 [info] ExtensionService#_doActivateExtension mongodb.mongodb-vscode, startup: false, activationEvent: 'onLanguage:plaintext'
+2024-02-04 00:38:45.478 [warning] TextEditor is closed/disposed
+2024-02-04 00:39:49.227 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2024-02-04 00:39:49.231 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2024-02-04 00:39:49.527 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2024-02-04 00:44:30.883 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-02-04 00:44:44.354 [info] ExtensionService#_doActivateExtension JScearcy.rust-doc-viewer, startup: false, activationEvent: 'onCommand:extension.rustDocViewer'
+2024-02-04 00:56:53.564 [info] ExtensionService#_doActivateExtension rust-lang.rust-analyzer, startup: false, activationEvent: 'onLanguage:rust'
+2024-02-04 00:57:00.047 [warning] TextEditor is closed/disposed
+2024-02-04 00:57:52.790 [warning] TextEditor is closed/disposed

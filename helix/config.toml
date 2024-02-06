@@ -1,0 +1,22 @@
+theme = "kanagawa"
+
+[editor]
+line-number = "relative"
+shell = ["nu"]
+auto-completion = true
+auto-info = true
+
+[editor.statusline]
+left = ["mode", "spinner", "file-name"]
+center = ["diagnostics"]
+right = ["version-control", "position"]
+
+[editor.lsp]
+enable = true
+auto-signature-help = true
+display-inlay-hints = true
+display-signature-help-docs = true
+snippets = true
+
+[editor.indent-guides]
+render = true

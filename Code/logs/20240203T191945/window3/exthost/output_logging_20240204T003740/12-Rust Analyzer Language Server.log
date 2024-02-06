@@ -1,0 +1,32 @@
+[ERROR project_model::workspace] cyclic deps: rand(Idx::<CrateData>(444)) -> libc(Idx::<CrateData>(367)), alternative path: libc(Idx::<CrateData>(367)) -> rustc_std_workspace_core(Idx::<CrateData>(96)) -> core(Idx::<CrateData>(87)) -> rand(Idx::<CrateData>(444))
+[ERROR project_model::workspace] cyclic deps: rand_core(Idx::<CrateData>(446)) -> getrandom(Idx::<CrateData>(316)), alternative path: getrandom(Idx::<CrateData>(316)) -> cfg_if(Idx::<CrateData>(228)) -> rustc_std_workspace_core(Idx::<CrateData>(96)) -> core(Idx::<CrateData>(87)) -> rand(Idx::<CrateData>(444)) -> rand_chacha(Idx::<CrateData>(445)) -> rand_core(Idx::<CrateData>(446))
+[ERROR project_model::workspace] cyclic deps: rand(Idx::<CrateData>(444)) -> libc(Idx::<CrateData>(367)), alternative path: libc(Idx::<CrateData>(367)) -> rustc_std_workspace_core(Idx::<CrateData>(96)) -> core(Idx::<CrateData>(87)) -> rand(Idx::<CrateData>(444))
+[ERROR project_model::workspace] cyclic deps: rand_core(Idx::<CrateData>(446)) -> getrandom(Idx::<CrateData>(316)), alternative path: getrandom(Idx::<CrateData>(316)) -> cfg_if(Idx::<CrateData>(228)) -> rustc_std_workspace_core(Idx::<CrateData>(96)) -> core(Idx::<CrateData>(87)) -> rand(Idx::<CrateData>(444)) -> rand_chacha(Idx::<CrateData>(445)) -> rand_core(Idx::<CrateData>(446))
+[ERROR rust_analyzer::main_loop] FetchBuildDataError:
+error: failed to run custom build command for `rustc_macros v0.0.0 (/home/anthonyoon/Documents/Code-Projects/rust/compiler/rustc_macros)`
+note: To improve backtraces for build dependencies, set the CARGO_PROFILE_DEV_BUILD_OVERRIDE_DEBUG=true environment variable to enable debug information generation.
+
+Caused by:
+  process didn't exit successfully: `/home/anthonyoon/Documents/Code-Projects/rust/target/debug/build/rustc_macros-e3a1df702427aa9b/build-script-build` (exit status: 101)
+  --- stdout
+  cargo:rerun-if-changed=build.rs
+  cargo:rerun-if-env-changed=RUSTC_BOOTSTRAP
+
+  --- stderr
+  error: you are attempting to build the compiler without going through bootstrap
+  help: see https://rustc-dev-guide.rust-lang.org/building/how-to-build-and-run.html for how to build the compiler
+  help: if you know what you're doing, set the RUSTC_BOOTSTRAP environment variable to any value
+  thread 'main' panicked at compiler/rustc_macros/build.rs:14:9:
+  wrong command used for building
+  stack backtrace:
+     0: rust_begin_unwind
+               at /rustc/cb4d9a1902b3ea17e93872dafb76d24aa6295c47/library/std/src/panicking.rs:647:5
+     1: core::panicking::panic_fmt
+               at /rustc/cb4d9a1902b3ea17e93872dafb76d24aa6295c47/library/core/src/panicking.rs:72:14
+     2: build_script_build::main
+     3: core::ops::function::FnOnce::call_once
+  note: Some details are omitted, run with `RUST_BACKTRACE=full` for a verbose backtrace.
+
+
+[ERROR project_model::workspace] cyclic deps: rand(Idx::<CrateData>(444)) -> libc(Idx::<CrateData>(367)), alternative path: libc(Idx::<CrateData>(367)) -> rustc_std_workspace_core(Idx::<CrateData>(96)) -> core(Idx::<CrateData>(87)) -> rand(Idx::<CrateData>(444))
+[ERROR project_model::workspace] cyclic deps: rand_core(Idx::<CrateData>(446)) -> getrandom(Idx::<CrateData>(316)), alternative path: getrandom(Idx::<CrateData>(316)) -> cfg_if(Idx::<CrateData>(228)) -> rustc_std_workspace_core(Idx::<CrateData>(96)) -> core(Idx::<CrateData>(87)) -> rand(Idx::<CrateData>(444)) -> rand_chacha(Idx::<CrateData>(445)) -> rand_core(Idx::<CrateData>(446))

@@ -1,0 +1,13 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+    {
+        "key": "alt+capslock",
+        "command": "oracleDBObjectExplorer.runCodeObjectFromFile",
+        "when": "editorTextFocus && resourceScheme == 'oracle' && resource =~ /(objectType%3D13|objectType%3D15)/"
+    },
+    {
+        "key": "ctrl+e",
+        "command": "-oracleDBObjectExplorer.runCodeObjectFromFile",
+        "when": "editorTextFocus && resourceScheme == 'oracle' && resource =~ /(objectType%3D13|objectType%3D15)/"
+    }
+]

@@ -1,0 +1,37 @@
+2024-02-04 20:35:30.378 [info] Extension host with pid 25276 started
+2024-02-04 20:35:30.378 [info] Skipping acquiring lock for /home/anthonyoon/.config/Code/User/workspaceStorage/20b9e9d4d44c914828cde82f37950a5e.
+2024-02-04 20:35:30.500 [info] ExtensionService#_doActivateExtension mongodb.mongodb-vscode, startup: false, activationEvent: 'onLanguage:plaintext'
+2024-02-04 20:35:30.669 [info] Extension host with pid 25331 started
+2024-02-04 20:35:30.669 [info] Skipping acquiring lock for /home/anthonyoon/.config/Code/User/workspaceStorage/20b9e9d4d44c914828cde82f37950a5e.
+2024-02-04 20:35:30.671 [info] Eager extensions activated
+2024-02-04 20:35:30.794 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2024-02-04 20:35:31.443 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-02-04 20:35:31.456 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: false, activationEvent: 'onLanguage:oraclesql', root cause: Oracle.oracledevtools
+2024-02-04 20:35:31.590 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-02-04 20:35:31.593 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+2024-02-04 20:35:31.628 [info] ExtensionService#_doActivateExtension Oracle.oracledevtools, startup: false, activationEvent: 'onLanguage:oraclesql'
+2024-02-04 20:35:32.642 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-02-04 20:35:32.663 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-02-04 20:35:32.724 [info] Eager extensions activated
+2024-02-04 20:35:32.737 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-04 20:35:32.740 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-04 20:35:32.749 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2024-02-04 20:35:32.797 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+2024-02-04 20:39:05.171 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:39:05.171 [error] undefined
+2024-02-04 20:39:05.358 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:39:05.358 [error] undefined
+2024-02-04 20:40:19.706 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:40:19.706 [error] undefined
+2024-02-04 20:40:28.543 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:40:28.543 [error] undefined
+2024-02-04 20:40:59.814 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:40:59.814 [error] undefined
+2024-02-04 20:41:00.270 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:41:00.270 [error] undefined
+2024-02-04 20:41:34.020 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:41:34.020 [error] undefined
+2024-02-04 20:41:39.711 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:41:39.711 [error] undefined
+2024-02-04 20:41:39.943 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:41:39.943 [error] undefined

@@ -1,0 +1,10 @@
+2024-02-03 19:24:12.141 [info] Revived process, old id 20b9e9d4d44c914828cde82f37950a5e-1 -> new id 1
+2024-02-03 19:24:12.171 [info] Expanding terminal instance, old id 20b9e9d4d44c914828cde82f37950a5e-1 -> new id 1
+2024-02-03 19:24:12.637 [warning] Persistent process "1": Process had no disconnect runners but was an orphan
+2024-02-03 19:24:12.637 [info] Persistent process reconnection "1"
+2024-02-03 19:24:12.732 [info] Persistent process "1": Replaying 7039 chars and 1 size events
+2024-02-03 19:24:25.389 [warning] Shell integration cannot be enabled for executable "/home/anthonyoon/.cargo/bin/nu" and args undefined
+2024-02-03 23:47:59.321 [warning] Shell integration cannot be enabled for executable "/home/anthonyoon/.cargo/bin/nu" and args undefined
+2024-02-04 00:03:40.471 [warning] Shell integration cannot be enabled for executable "/home/anthonyoon/.cargo/bin/nu" and args undefined
+2024-02-04 00:37:46.336 [warning] Shell integration cannot be enabled for executable "/home/anthonyoon/.cargo/bin/nu" and args undefined
+2024-02-04 00:40:50.773 [warning] Shell integration cannot be enabled for executable "/home/anthonyoon/.cargo/bin/nu" and args undefined

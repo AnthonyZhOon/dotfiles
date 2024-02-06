@@ -1,0 +1,39 @@
+2024-02-04 20:44:10.939 [info] 2024-02-04T09:44:10.904Z extension INFO  Activating extension... [
+  {
+    id: 'mongodb.mongodb-vscode',
+    version: '1.5.0',
+    mode: 'Production',
+    kind: 'UI',
+    extensionPath: '/home/anthonyoon/.vscode/extensions/mongodb.mongodb-vscode-1.5.0',
+    logPath: '/home/anthonyoon/.config/Code/logs/20240204T204409/window1/exthost/mongodb.mongodb-vscode',
+    workspaceStoragePath: '/home/anthonyoon/.config/Code/User/workspaceStorage/20b9e9d4d44c914828cde82f37950a5e/mongodb.mongodb-vscode',
+    globalStoragePath: '/home/anthonyoon/.config/Code/User/globalStorage/mongodb.mongodb-vscode',
+    defaultConnectionSavingLocation: 'Global',
+    buildInfo: {
+      nodeVersion: 'v18.17.1',
+      runtimePlatform: 'linux',
+      runtimeArch: 'x64'
+    }
+  }
+]
+
+2024-02-04 20:44:10.939 [info] 2024-02-04T09:44:10.904Z telemetry INFO  SegmentKey was found [ { type: 'string' } ]
+
+2024-02-04 20:44:10.939 [info] 2024-02-04T09:44:10.905Z language server controller INFO  Creating MongoDB Language Server... [
+  {
+    extensionPath: '/home/anthonyoon/.vscode/extensions/mongodb.mongodb-vscode-1.5.0',
+    languageServer: {
+      id: 'mongodbLanguageServer',
+      name: 'MongoDB Language Server',
+      path: '/home/anthonyoon/.vscode/extensions/mongodb.mongodb-vscode-1.5.0/dist/languageServer.js',
+      documentSelector: '[{"pattern":"**/*.mongodb.js"},{"pattern":"**/*.mongodb"}]'
+    }
+  }
+]
+
+2024-02-04 20:44:10.939 [info] 2024-02-04T09:44:10.911Z telemetry INFO  Segment analytics activated [ { anonymousId: '3d197c32-519a-4e85-b44c-62338b7a0604' } ]
+
+2024-02-04 20:44:11.212 [info] 2024-02-04T09:44:11.211Z language server controller INFO  Starting the language server... []
+
+2024-02-04 20:44:11.568 [info] 2024-02-04T09:44:11.568Z language server controller INFO  MongoDBService initialized. Sending default settings... {"extensionPath":"/home/anthonyoon/.vscode/extensions/mongodb.mongodb-vscode-1.5.0","connectionId":null,"hasConnectionString":false,"hasConnectionOptions":false} []
+

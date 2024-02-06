@@ -1,0 +1,428 @@
+2024-02-04 20:44:10.016 [info] Extension host with pid 30379 started
+2024-02-04 20:44:10.016 [info] Skipping acquiring lock for /home/anthonyoon/.config/Code/User/workspaceStorage/20b9e9d4d44c914828cde82f37950a5e.
+2024-02-04 20:44:10.074 [info] ExtensionService#_doActivateExtension mongodb.mongodb-vscode, startup: false, activationEvent: 'onLanguage:plaintext'
+2024-02-04 20:44:10.341 [info] Extension host with pid 30429 started
+2024-02-04 20:44:10.341 [info] Skipping acquiring lock for /home/anthonyoon/.config/Code/User/workspaceStorage/20b9e9d4d44c914828cde82f37950a5e.
+2024-02-04 20:44:10.348 [info] Eager extensions activated
+2024-02-04 20:44:10.438 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2024-02-04 20:44:10.831 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-02-04 20:44:10.841 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: false, activationEvent: 'onLanguage:oraclesql', root cause: Oracle.oracledevtools
+2024-02-04 20:44:10.948 [info] ExtensionService#_doActivateExtension Oracle.oracledevtools, startup: false, activationEvent: 'onLanguage:oraclesql'
+2024-02-04 20:44:11.233 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-02-04 20:44:11.234 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+2024-02-04 20:44:11.283 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-02-04 20:44:11.300 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-02-04 20:44:11.330 [info] Eager extensions activated
+2024-02-04 20:44:11.367 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-04 20:44:11.368 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-04 20:44:11.373 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2024-02-04 20:44:11.409 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+2024-02-04 20:45:04.932 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:45:04.932 [error] undefined
+2024-02-04 20:45:07.123 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:45:07.123 [error] undefined
+2024-02-04 20:45:07.413 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:45:07.413 [error] undefined
+2024-02-04 20:45:23.856 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:45:23.856 [error] undefined
+2024-02-04 20:45:24.007 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:45:24.007 [error] undefined
+2024-02-04 20:45:24.163 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:45:24.163 [error] undefined
+2024-02-04 20:45:26.704 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:45:26.704 [error] undefined
+2024-02-04 20:45:26.827 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:45:26.827 [error] undefined
+2024-02-04 20:45:45.560 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:45:45.560 [error] undefined
+2024-02-04 20:45:46.160 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:45:46.160 [error] undefined
+2024-02-04 20:45:46.496 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:45:46.496 [error] undefined
+2024-02-04 20:45:48.980 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:45:48.980 [error] undefined
+2024-02-04 20:45:57.362 [warning] TextEditor is closed/disposed
+2024-02-04 20:46:03.359 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:46:03.359 [error] undefined
+2024-02-04 20:46:04.050 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:46:04.050 [error] undefined
+2024-02-04 20:46:09.423 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:46:09.423 [error] undefined
+2024-02-04 20:46:10.544 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:46:10.544 [error] undefined
+2024-02-04 20:46:12.196 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:46:12.196 [error] undefined
+2024-02-04 20:46:13.415 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:46:13.415 [error] undefined
+2024-02-04 20:46:14.423 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:46:14.423 [error] undefined
+2024-02-04 20:46:15.840 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:46:15.840 [error] undefined
+2024-02-04 20:46:16.404 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:46:16.404 [error] undefined
+2024-02-04 20:46:18.370 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:46:18.370 [error] undefined
+2024-02-04 20:46:19.899 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:46:19.899 [error] undefined
+2024-02-04 20:46:20.345 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:46:20.345 [error] undefined
+2024-02-04 20:46:23.549 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:46:23.549 [error] undefined
+2024-02-04 20:46:23.868 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:46:23.868 [error] undefined
+2024-02-04 20:46:42.581 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:46:42.581 [error] undefined
+2024-02-04 20:46:42.989 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:46:42.989 [error] undefined
+2024-02-04 20:46:43.205 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:46:43.205 [error] undefined
+2024-02-04 20:46:43.667 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:46:43.667 [error] undefined
+2024-02-04 20:46:46.476 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:46:46.476 [error] undefined
+2024-02-04 20:46:53.105 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:46:53.105 [error] undefined
+2024-02-04 20:48:02.344 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:48:02.344 [error] undefined
+2024-02-04 20:48:03.844 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:48:03.844 [error] undefined
+2024-02-04 20:48:04.804 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:48:04.804 [error] undefined
+2024-02-04 20:48:05.227 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:48:05.227 [error] undefined
+2024-02-04 20:48:19.859 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:48:19.859 [error] undefined
+2024-02-04 20:49:03.576 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:49:03.576 [error] undefined
+2024-02-04 20:49:04.783 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:49:04.783 [error] undefined
+2024-02-04 20:49:12.439 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:49:12.439 [error] undefined
+2024-02-04 20:49:45.732 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:49:45.732 [error] undefined
+2024-02-04 20:49:46.152 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:49:46.152 [error] undefined
+2024-02-04 20:49:46.351 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:49:46.351 [error] undefined
+2024-02-04 20:49:46.984 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:49:46.984 [error] undefined
+2024-02-04 20:49:47.485 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:49:47.485 [error] undefined
+2024-02-04 20:49:49.459 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:49:49.459 [error] undefined
+2024-02-04 20:50:15.017 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:50:15.017 [error] undefined
+2024-02-04 20:50:35.141 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:50:35.141 [error] undefined
+2024-02-04 20:50:38.157 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:50:38.157 [error] undefined
+2024-02-04 20:50:39.250 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:50:39.250 [error] undefined
+2024-02-04 20:50:40.233 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:50:40.233 [error] undefined
+2024-02-04 20:50:40.563 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:50:40.563 [error] undefined
+2024-02-04 20:50:41.312 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:50:41.312 [error] undefined
+2024-02-04 20:50:43.385 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:50:43.385 [error] undefined
+2024-02-04 20:51:16.190 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:51:16.190 [error] undefined
+2024-02-04 20:51:52.763 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:51:52.763 [error] undefined
+2024-02-04 20:51:53.139 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:51:53.139 [error] undefined
+2024-02-04 20:51:53.904 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:51:53.904 [error] undefined
+2024-02-04 20:51:57.562 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:51:57.562 [error] undefined
+2024-02-04 20:51:57.746 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:51:57.746 [error] undefined
+2024-02-04 20:51:58.678 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:51:58.678 [error] undefined
+2024-02-04 20:51:59.124 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:51:59.124 [error] undefined
+2024-02-04 20:51:59.311 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:51:59.311 [error] undefined
+2024-02-04 20:52:00.067 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:52:00.067 [error] undefined
+2024-02-04 20:52:09.423 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:52:09.423 [error] undefined
+2024-02-04 20:52:26.303 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:52:26.303 [error] undefined
+2024-02-04 20:58:17.273 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:58:17.273 [error] undefined
+2024-02-04 20:58:29.824 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 20:58:29.824 [error] undefined
+2024-02-04 21:01:00.549 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:01:00.549 [error] undefined
+2024-02-04 21:01:04.364 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:01:04.364 [error] undefined
+2024-02-04 21:01:17.956 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:01:17.956 [error] undefined
+2024-02-04 21:01:19.594 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:01:19.594 [error] undefined
+2024-02-04 21:01:19.880 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:01:19.880 [error] undefined
+2024-02-04 21:01:21.110 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:01:21.110 [error] undefined
+2024-02-04 21:10:10.852 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:10:10.852 [error] undefined
+2024-02-04 21:10:11.736 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:10:11.736 [error] undefined
+2024-02-04 21:10:12.111 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:10:12.111 [error] undefined
+2024-02-04 21:10:13.386 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:10:13.386 [error] undefined
+2024-02-04 21:10:13.925 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:10:13.925 [error] undefined
+2024-02-04 21:12:52.957 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:12:52.957 [error] undefined
+2024-02-04 21:14:22.362 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:14:22.362 [error] undefined
+2024-02-04 21:14:23.945 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:14:23.945 [error] undefined
+2024-02-04 21:14:47.276 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:14:47.276 [error] undefined
+2024-02-04 21:14:50.863 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:14:50.863 [error] undefined
+2024-02-04 21:14:51.112 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:14:51.112 [error] undefined
+2024-02-04 21:14:56.083 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:14:56.083 [error] undefined
+2024-02-04 21:17:42.989 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:17:42.989 [error] undefined
+2024-02-04 21:17:46.446 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:17:46.446 [error] undefined
+2024-02-04 21:17:54.489 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:17:54.489 [error] undefined
+2024-02-04 21:17:59.779 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:17:59.779 [error] undefined
+2024-02-04 21:18:02.573 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:18:02.573 [error] undefined
+2024-02-04 21:18:04.539 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:18:04.539 [error] undefined
+2024-02-04 21:18:06.539 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:18:06.539 [error] undefined
+2024-02-04 21:18:07.842 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:18:07.842 [error] undefined
+2024-02-04 21:18:08.148 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:18:08.148 [error] undefined
+2024-02-04 21:18:10.301 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:18:10.301 [error] undefined
+2024-02-04 21:18:26.230 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:18:26.230 [error] undefined
+2024-02-04 21:18:33.113 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:18:33.113 [error] undefined
+2024-02-04 21:18:33.974 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:18:33.974 [error] undefined
+2024-02-04 21:18:47.049 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:18:47.049 [error] undefined
+2024-02-04 21:18:48.328 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:18:48.328 [error] undefined
+2024-02-04 21:18:48.994 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:18:48.994 [error] undefined
+2024-02-04 21:18:49.297 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:18:49.297 [error] undefined
+2024-02-04 21:18:50.454 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:18:50.454 [error] undefined
+2024-02-04 21:18:51.116 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:18:51.116 [error] undefined
+2024-02-04 21:19:00.139 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:19:00.139 [error] undefined
+2024-02-04 21:19:01.395 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:19:01.395 [error] undefined
+2024-02-04 21:19:05.274 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:19:05.274 [error] undefined
+2024-02-04 21:19:09.619 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:19:09.619 [error] undefined
+2024-02-04 21:19:10.037 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:19:10.037 [error] undefined
+2024-02-04 21:19:15.617 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:19:15.617 [error] undefined
+2024-02-04 21:19:53.994 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:19:53.994 [error] undefined
+2024-02-04 21:19:57.753 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:19:57.753 [error] undefined
+2024-02-04 21:19:58.277 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:19:58.277 [error] undefined
+2024-02-04 21:19:58.550 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:19:58.550 [error] undefined
+2024-02-04 21:19:59.337 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:19:59.337 [error] undefined
+2024-02-04 21:19:59.796 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:19:59.796 [error] undefined
+2024-02-04 21:20:03.280 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:20:03.280 [error] undefined
+2024-02-04 21:20:07.604 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:20:07.604 [error] undefined
+2024-02-04 21:20:17.101 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:20:17.101 [error] undefined
+2024-02-04 21:20:18.066 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:20:18.066 [error] undefined
+2024-02-04 21:20:26.592 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:20:26.592 [error] undefined
+2024-02-04 21:20:26.947 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:20:26.947 [error] undefined
+2024-02-04 21:20:28.382 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:20:28.382 [error] undefined
+2024-02-04 21:20:32.688 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:20:32.688 [error] undefined
+2024-02-04 21:20:35.778 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:20:35.778 [error] undefined
+2024-02-04 21:20:39.176 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:20:39.176 [error] undefined
+2024-02-04 21:20:40.079 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:20:40.079 [error] undefined
+2024-02-04 21:20:44.561 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:20:44.561 [error] undefined
+2024-02-04 21:21:15.806 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:21:15.807 [error] undefined
+2024-02-04 21:21:18.320 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:21:18.320 [error] undefined
+2024-02-04 21:21:19.693 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:21:19.693 [error] undefined
+2024-02-04 21:21:20.157 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:21:20.157 [error] undefined
+2024-02-04 21:21:23.384 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:21:23.384 [error] undefined
+2024-02-04 21:21:55.337 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:21:55.337 [error] undefined
+2024-02-04 21:22:08.034 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:22:08.034 [error] undefined
+2024-02-04 21:22:09.242 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:22:09.242 [error] undefined
+2024-02-04 21:22:10.679 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:22:10.679 [error] undefined
+2024-02-04 21:22:13.980 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:22:13.980 [error] undefined
+2024-02-04 21:22:14.288 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:22:14.288 [error] undefined
+2024-02-04 21:22:15.360 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:22:15.360 [error] undefined
+2024-02-04 21:22:16.356 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:22:16.356 [error] undefined
+2024-02-04 21:22:16.732 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:22:16.732 [error] undefined
+2024-02-04 21:22:17.345 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:22:17.345 [error] undefined
+2024-02-04 21:22:20.838 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:22:20.838 [error] undefined
+2024-02-04 21:22:21.963 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:22:21.963 [error] undefined
+2024-02-04 21:22:22.266 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:22:22.266 [error] undefined
+2024-02-04 21:22:23.832 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:22:23.832 [error] undefined
+2024-02-04 21:22:45.260 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:22:45.260 [error] undefined
+2024-02-04 21:23:05.802 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:23:05.802 [error] undefined
+2024-02-04 21:23:18.882 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:23:18.882 [error] undefined
+2024-02-04 21:23:19.511 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:23:19.511 [error] undefined
+2024-02-04 21:23:21.787 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:23:21.787 [error] undefined
+2024-02-04 21:24:10.978 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:24:10.978 [error] undefined
+2024-02-04 21:24:29.175 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:24:29.175 [error] undefined
+2024-02-04 21:24:37.947 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:24:37.947 [error] undefined
+2024-02-04 21:24:38.136 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:24:38.136 [error] undefined
+2024-02-04 21:24:40.432 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:24:40.432 [error] undefined
+2024-02-04 21:24:43.144 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:24:43.144 [error] undefined
+2024-02-04 21:24:56.494 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:24:56.494 [error] undefined
+2024-02-04 21:24:57.023 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:24:57.023 [error] undefined
+2024-02-04 21:26:20.483 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:26:20.483 [error] undefined
+2024-02-04 21:32:17.996 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:32:17.996 [error] undefined
+2024-02-04 21:32:21.289 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:32:21.289 [error] undefined
+2024-02-04 21:32:21.561 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:32:21.561 [error] undefined
+2024-02-04 21:32:35.518 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:32:35.518 [error] undefined
+2024-02-04 21:32:35.844 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:32:35.844 [error] undefined
+2024-02-04 21:32:36.804 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:32:36.804 [error] undefined
+2024-02-04 21:32:37.098 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:32:37.098 [error] undefined
+2024-02-04 21:32:40.313 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:32:40.313 [error] undefined
+2024-02-04 21:52:13.638 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 21:52:13.638 [error] undefined
+2024-02-04 22:01:05.238 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 22:01:05.238 [error] undefined
+2024-02-04 22:01:05.918 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 22:01:05.918 [error] undefined
+2024-02-04 22:01:08.093 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 22:01:08.093 [error] undefined
+2024-02-04 22:04:35.502 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 22:04:35.502 [error] undefined
+2024-02-04 22:05:35.811 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 22:05:35.811 [error] undefined
+2024-02-04 22:05:41.831 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 22:05:41.831 [error] undefined
+2024-02-04 22:08:28.993 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 22:08:28.993 [error] undefined
+2024-02-04 22:08:30.516 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 22:08:30.516 [error] undefined
+2024-02-04 22:08:43.096 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 22:08:43.096 [error] undefined
+2024-02-04 22:08:45.985 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 22:08:45.985 [error] undefined
+2024-02-04 22:08:46.433 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 22:08:46.433 [error] undefined
+2024-02-04 22:10:14.303 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 22:10:14.303 [error] undefined
+2024-02-04 22:10:14.778 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 22:10:14.778 [error] undefined
+2024-02-04 22:10:20.925 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 22:10:20.925 [error] undefined
+2024-02-04 22:10:21.323 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 22:10:21.323 [error] undefined
+2024-02-04 22:10:23.895 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 22:10:23.895 [error] undefined
+2024-02-04 22:10:56.689 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 22:10:56.689 [error] undefined
+2024-02-04 22:12:09.459 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 22:12:09.459 [error] undefined
+2024-02-04 22:12:31.807 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 22:12:31.807 [error] undefined
+2024-02-04 22:12:36.959 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 22:12:36.959 [error] undefined
+2024-02-04 22:14:29.306 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 22:14:29.306 [error] undefined
+2024-02-04 22:14:29.752 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 22:14:29.752 [error] undefined
+2024-02-04 22:14:30.760 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 22:14:30.760 [error] undefined
+2024-02-04 22:14:31.879 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 22:14:31.879 [error] undefined
+2024-02-04 22:14:32.129 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 22:14:32.129 [error] undefined
+2024-02-04 22:14:41.055 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 22:14:41.055 [error] undefined
+2024-02-04 22:14:41.804 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 22:14:41.804 [error] undefined
+2024-02-04 22:14:53.016 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 22:14:53.016 [error] undefined
+2024-02-04 22:14:59.440 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 22:14:59.440 [error] undefined
+2024-02-04 22:15:03.231 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 22:15:03.231 [error] undefined
+2024-02-04 22:15:04.819 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 22:15:04.819 [error] undefined
+2024-02-04 22:15:44.768 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 22:15:44.768 [error] undefined
+2024-02-04 22:15:46.824 [error] [Oracle.oracledevtools] provider FAILED
+2024-02-04 22:15:46.824 [error] undefined

@@ -1,0 +1,20 @@
+2024-02-04 13:24:47.900 [info] Log level: Info
+2024-02-04 13:24:47.900 [info] Validating found git in: "git"
+2024-02-04 13:24:47.900 [info] Using git "2.43.0" from "git"
+2024-02-04 13:24:47.900 [info] > git rev-parse --show-toplevel [6ms]
+2024-02-04 13:24:47.900 [info] > git rev-parse --git-dir --git-common-dir [42ms]
+2024-02-04 13:24:47.900 [info] Open repository: /home/anthonyoon/Documents/Code-Projects/rust
+2024-02-04 13:24:47.940 [info] > git rev-parse --show-toplevel [26ms]
+2024-02-04 13:24:47.940 [info] > git config --get commit.template [33ms]
+2024-02-04 13:24:47.990 [info] > git rev-parse --show-toplevel [44ms]
+2024-02-04 13:24:48.019 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [46ms]
+2024-02-04 13:24:48.034 [warning] ENOENT: no such file or directory, open '/home/anthonyoon/Documents/Code-Projects/rust/.git/refs/remotes/origin/master'
+2024-02-04 13:24:48.036 [info] > git rev-parse --show-toplevel [19ms]
+2024-02-04 13:24:48.049 [info] > git rev-parse refs/remotes/origin/master [15ms]
+2024-02-04 13:24:48.060 [info] > git rev-parse --show-toplevel [14ms]
+2024-02-04 13:24:48.077 [info] > git rev-parse --show-toplevel [4ms]
+2024-02-04 13:24:48.094 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-04 13:24:48.116 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-04 13:24:48.146 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-04 13:24:48.159 [info] > git rev-parse --show-toplevel [4ms]
+2024-02-04 13:24:48.167 [info] > git rev-parse --show-toplevel [1ms]

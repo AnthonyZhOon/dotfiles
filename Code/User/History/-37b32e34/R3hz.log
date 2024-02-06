@@ -1,0 +1,29 @@
+   Compiling http-server v0.1.0 (/home/anthonyoon/Documents/Code Projects/http-server)
+    Finished release [optimized] target(s) in 0.38s
+     Running `/home/anthonyoon/Documents/Code Projects/http-server/target/release/http-server --hostname 192.168.1.107 --port 8008`
+Locally connected to 192.168.1.107:8008
+Worker 1 got a job; executing. GET / HTTP/1.1 from: 59.102.62.228:56284
+Worker 2 got a job; executing. GET /cat.jpg HTTP/1.1 from: 59.102.62.228:56300
+Worker 3 got a job; executing. GET / HTTP/1.1 from: 59.102.62.228:38328
+Worker 0 got a job; executing. GET /cat.jpg HTTP/1.1 from: 59.102.62.228:38338
+Worker 1 got a job; executing. GET / HTTP/1.1 from: 59.102.62.228:38340
+Worker 2 got a job; executing. GET /cat.jpg HTTP/1.1 from: 59.102.62.228:38348
+Worker 3 got a job; executing. GET / HTTP/1.1 from: 59.102.62.228:38352
+Worker 0 got a job; executing. GET /cat.jpg HTTP/1.1 from: 59.102.62.228:38354
+Worker 1 got a job; executing. GET / HTTP/1.1 from: 59.102.62.228:38356
+Worker 2 got a job; executing. GET /cat.jpg HTTP/1.1 from: 59.102.62.228:38368
+Worker 3 got a job; executing. GET / HTTP/1.1 from: 59.102.62.228:38380
+Worker 0 got a job; executing. GET /cat.jpg HTTP/1.1 from: 59.102.62.228:38390
+Worker 1 got a job; executing. GET / HTTP/1.1 from: 59.102.62.228:38392
+Worker 2 got a job; executing. GET /cat.jpg HTTP/1.1 from: 59.102.62.228:38406
+Worker 3 got a job; executing. GET / HTTP/1.1 from: 59.102.62.228:38414
+Worker 0 got a job; executing. GET /cat.jpg HTTP/1.1 from: 59.102.62.228:38424
+    Finished release [optimized] target(s) in 0.00s
+     Running `/home/anthonyoon/Documents/Code Projects/http-server/target/release/http-server --hostname 192.168.1.107 --port 8008`
+thread 'main' panicked at src/main.rs:54:68:
+Failed to connect: Os { code: 98, kind: AddrInUse, message: "Address already in use" }
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+Worker 1 got a job; executing. GET / HTTP/1.1 from: 59.102.62.228:52924
+Worker 2 got a job; executing. Worker 3 got a job; executing. GET / HTTP/1.1 from: 24.2.71.77:46424
+Worker 0 got a job; executing. GET / HTTP/1.1 from: 192.241.139.132:46836
+

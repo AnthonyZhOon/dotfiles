@@ -1,0 +1,27 @@
+2024-02-03 19:24:12.804 [warning] Webgl could not be loaded. Falling back to the canvas renderer type. [{}]
+2024-02-03 19:24:25.432 [info] Latency measurements for local backend
+window<->ptyhost (message port): 0.30ms
+window<->ptyhostservice<->ptyhost: 3.40ms
+ptyhostservice<->ptyhost: 0.44ms []
+2024-02-03 23:47:59.345 [warning] Webgl could not be loaded. Falling back to the canvas renderer type. [{}]
+2024-02-03 23:47:59.441 [info] Latency measurements for local backend
+window<->ptyhost (message port): 0.50ms
+window<->ptyhostservice<->ptyhost: 4.10ms
+ptyhostservice<->ptyhost: 0.30ms []
+2024-02-04 00:03:40.502 [info] Latency measurements for local backend
+window<->ptyhost (message port): 0.30ms
+window<->ptyhostservice<->ptyhost: 0.70ms
+ptyhostservice<->ptyhost: 0.27ms []
+2024-02-04 00:37:46.363 [warning] Webgl could not be loaded. Falling back to the canvas renderer type. [{}]
+2024-02-04 00:37:46.458 [info] Latency measurements for local backend
+window<->ptyhost (message port): 10.90ms
+window<->ptyhostservice<->ptyhost: 3.10ms
+ptyhostservice<->ptyhost: 0.30ms []
+2024-02-04 00:40:50.809 [info] Latency measurements for local backend
+window<->ptyhost (message port): 0.40ms
+window<->ptyhostservice<->ptyhost: 0.80ms
+ptyhostservice<->ptyhost: 0.32ms []
+2024-02-04 00:57:14.028 [info] Latency measurements for local backend
+window<->ptyhost (message port): 1.20ms
+window<->ptyhostservice<->ptyhost: 2.40ms
+ptyhostservice<->ptyhost: 1.15ms []

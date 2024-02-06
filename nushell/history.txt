@@ -1,0 +1,1905 @@
+neofetch
+$env.config
+ls
+exa
+cargo remove exa
+cargo uninstall exa
+cargo install eza
+eza
+ls
+ls -help
+ls --help
+ls -l
+cat `Signed Tax Return Kheng H Mah 12thJuly2023.pdf`
+bat
+cat
+clear
+mkdir ~/.cache/starship
+$nu.env-path
+nano $nu.env-path
+config nu
+config env-path
+config env
+config nu
+sad
+ls
+cd Documents/
+ls
+cd ~
+ls -a
+cd .config/
+ls
+touch starship.toml
+nano starship.toml
+exit
+starship preset tokyo-night -o ~/.config/starship.toml
+cd Documents/
+cd FIT3171/
+cd group_repo/
+cd ~/Downloads/
+ls
+SpaceMono/ls
+config nu
+config env
+exit
+nu
+exit
+cd /usr/local/share/
+ls
+config env
+config nu
+$env.config
+ls ~/Downloads/SpaceMono/
+cat ~/Downloads/SpaceMono/readme.md
+cp ~/Downloads/SpaceMono/SpaceMono*.ttf ~/usr/local/share/
+cp ~/Downloads/SpaceMono/SpaceMono*.ttf ~/usr/local/share
+cp ~/Downloads/SpaceMono/SpaceMono*.ttf /usr/local/share
+sudo cp ~/Downloads/SpaceMono/SpaceMono*.ttf /usr/local/share
+exit
+ls
+exit
+exit
+exit
+nu
+exit
+history
+ls /usr/local/share | grep SpaceMono
+rm /usr/local/share/SpaceMono*.ttf
+sudo rm /usr/local/share/SpaceMono*.ttf
+cp ~/Downloads/SpaceMono/SpaceMono*.ttf /usr/local/share/fonts
+cp ~/Downloads/SpaceMono/SpaceMono*.ttf /usr/local/share/fonts/
+cd /usr/share/fonts/
+ls
+cp ~/Downloads/SpaceMono/SpaceMono*.ttf /usr/share/fonts/
+sudo cp ~/Downloads/SpaceMono/SpaceMono*.ttf /usr/share/fonts/
+exit
+starship preset tokyo-night -o ~/.config/starship.toml
+cd /usr/share/fonts/
+ls
+cd space-mono/
+ls
+sudo chown -r root: /usr/share/fonts/space-mono/*
+sudo chown -R root: /usr/share/fonts/space-mono/*
+sudo chown -R root: /usr/share/fonts/space-mono
+sudo chmod 644 /usr/share/fonts/space-mono/*
+sudo restorecon -vFr /usr/share/fonts/space-mono
+sudo fc-cache -v
+zsh
+dnf search emoji
+cd Documents/FIT3171/group_repo/
+code
+ls
+dnf search alacritty
+cargo install alacritty
+g++ -v
+which clang
+which gcc
+which g++
+dnf search g++
+gcc -v
+$CXX
+dnf search gcc
+sudo dnf install gcc-c++
+cargo install alacritty
+ls
+cd ~
+ls
+which nu
+cd .config/
+ls
+mkdir -p alacritty
+mkdir alacritty
+cd alacritty/
+code alacritty.toml
+eixt
+exit
+alacritty
+exit
+fc-match Droid
+fc-list
+fc-list | grep Droid
+fc-math Droid -s
+fc-match Droid -s
+ls
+cd ~
+cd .config/
+ls
+code starship.toml
+neofetch
+exit
+cd ~/Downloads/
+exit
+exit
+sudo dnf install g++
+ls
+wiki-tui
+ls
+rm -d snap/
+rm -rd snap/
+rm --help
+rm -f snap/
+rm -rf snap/
+gnome-terminal
+man rm
+rm --help 
+where
+curl google.com
+ls
+cd ~/Documents/
+ls
+cd `Code Projects/`
+ls
+cd Codeforces/
+ls
+cd //
+cd `~/Documents/Code Projects/`
+ls
+cd advent-of-code/
+ls
+cd 2023/
+ls
+cd rust/
+ls
+cd ..
+ls
+git init
+echo "# advent-of-code-2023" >> README.md
+ls
+cd ..
+ls
+cd 2023/
+cd rust/
+ls
+cd ..
+touch README.md
+echo "# advent-of-code-2023" >> README.md
+cat README.md
+echo "# advent-of-code-2023" > README.md
+cat README.md
+nano README.md
+git add README.md
+git commit -m "First commit of advent of code 2023 in rust"
+git config user.email anthony.zh.oon@gmail.com
+git config user.name "Anthony Oon"
+git commit -m "First commit of advent of code 2023 in rust"
+git branch -M main
+git remote add origin https://github.com/AnthonyZhOon/advent-of-code-2023.git
+git push -u origin main
+git remote remove origin https://github.com/AnthonyZhOon/advent-of-code-2023.git
+git remote remove origin 
+git remote add origin git@github.com:AnthonyZhOon/advent-of-code-2023.git
+git push -u origin main
+git add .
+git status
+git add rust/
+cd rust/day-01
+ls
+git status
+cd ..
+git add day*/src
+git status
+git ls-files
+git remote
+git log
+git add day*
+cd day-01/
+git log
+ls
+git add src/
+git commit -m "Add day 1"
+git config --global user.email "anthony.zh.oon@gmail.com"
+git config --global user.name "Anthony Zh. Oon"
+git commit -m "Add day 1"
+cd ..
+git status
+git add ./
+git submodule
+git submodule --help
+git rm --cached rust/day-01
+git rm --cached day-01
+cd ..
+git rm --cached rust/day-01
+git submodule add git@github.com:AnthonyZhOon/advent-of-code-2023.git rust/day-01
+cd rust/day-02
+git status
+git add Cargo.toml src/
+git commit -m "add day 2"
+cd ..
+cd day-03
+git status
+git add Cargo.toml src/
+git commit -m "add day 3"
+cd ../day-03
+git add Cargo.toml src/
+git commit -m "add day 3"
+cd ../day-04
+git add Cargo.toml src/
+git commit -m "add day 3"
+cd ../day-05
+git add Cargo.toml src/
+git commit -m "add day 3"
+cd ../day-06
+git add Cargo.toml src/
+git commit -m "add day 6"
+ls --help
+ls -s | where name == day-*
+ls -s 
+cd ..
+ls
+ls -s | where type == dir
+ls -s | where type == dir and name == day-*
+ls -s | where type == dir and name =~ day-*
+ls -s | where type == dir and name =~ day-* | each {|name| cd name; git add Cargo.toml src/}
+ls -s | where type == dir and name =~ day-* | each {|name| cd $name; git add Cargo.toml src/}
+ls -s | where type == dir and name =~ day-* | get name |each {|name| cd $name; git add Cargo.toml src/}
+cd day-06/
+gstat
+git status
+cd ..
+ls -s | where type == dir and name =~ day-* | get name |each {|name| cd $name; git commit -m "Added the day"}
+cd ..
+ls -s rust/ | where type == dir and name =~ day-* | get name |each {|name| git submodules add git@github.com:AnthonyZhOon/advent-of-code-2023.git rust/$name}
+ls -s rust/ | where type == dir and name =~ day-* | get name |each {|name| git submodule add git@github.com:AnthonyZhOon/advent-of-code-2023.git rust/$name}
+ls -s rust/ | where type == dir and name =~ day-* | get name |each {|name| echo "/$name"}
+ls -s rust/ | where type == dir and name =~ day-* | get name |each {|name| echo "/($name)"}
+ls -s rust/ | where type == dir and name =~ day-* | get name |each {|name| echo $name}
+ls -s rust/ | where type == dir and name =~ day-* | get name |each {|name| $"/$name"}
+ls -s rust/ | where type == dir and name =~ day-* | get name |each {|name| $"/($name)"}
+git submodule list
+git submodule status
+git submodule deinit rust/$name
+git submodule deinit rust/$name -f
+git submodule deinit -f rust/$name 
+ls -s rust/ | where type == dir and name =~ day-* | get name |each {|name| $"/($name)"}
+ls -s rust/ | where type == dir and name =~ day-* | get name |each {|name| git submodule add git@github.com:AnthonyZhOon/advent-of-code-2023.git $"rust/($name)"}
+git status
+nano .gitignore
+git status
+nano .gitignore
+git status
+git status rust/day-01
+cd rust/day-01
+git status
+cd benches/
+ls
+cd ..
+git add .
+git status
+git rm rust/$name
+git rm -f rust/$name 
+cd rust/
+ls
+ls -s rust/ | where type == dir and name =~ day-* | get name |each {|name| cd name; git add .}
+ls -s | where type == dir and name =~ day-* | get name |each {|name| cd name; git add .}
+ls -s | where type == dir and name =~ day-* | get name |each {|name| cd $name; git add .}
+cd ..
+git status
+git add rust/day*
+git status
+git commit -m "Added all days, learnt some nu scripting"
+git status
+git diff rust/day-01
+git diff rust/day-02
+git diff rust/day-03
+git remote
+git push
+cd rust/
+git submodule status
+git submodule deinit *
+git submodule status
+git submodule status | $3
+ls -s | where type == dir and name =~ day-* | get name |each {|name| git submodule deinit $"rust/($name)"}}
+ls -s | where type == dir and name =~ day-* | get name |each {|name| git submodule deinit $"rust/($name)"}
+git submodule status
+ls -s | where type == dir and name =~ day-* | get name |each {|name| git submodule deinit $"($name)"}
+ls -s | where type == dir and name =~ day-* | get name |each {|name| git submodule deinit --cached $"($name)"}
+git submodule status
+git submodule --help
+git submodule absorbgitdirs --help
+git submodule absorbgitdirs day-*/
+git submodule absorbgitdirs day-01
+git submodule status
+cd ..
+git submodule absorbgitdirs rust/
+git status
+git diff rust/day-03
+git status
+ls -a
+rm .gitmodules
+git status
+git submodule status
+git submodule deinit --help
+git submodule deinit --cached day-01
+git submodule deinit --cached rust/day-01
+git submodule status
+cd .git/
+ls
+cat config
+nano config
+cd ..
+git status
+git submodule status
+git add .
+git status
+git commit -m "removing submodules?"
+git submodule status
+git submodule absorbgitdirs rust/
+git status
+git add rust/day-01/
+git status
+git diff rust/day-01
+git diff rust/day-01/src/*
+git add rust/day-01/src/*
+git add rust/day-01/src/
+git deinit --help
+git --help
+git log
+git revert 49c
+git revert 49c2f93dc681440873881afaacc93a1c179e60fd
+git submodule status
+git submodule update
+git submodule 
+git submodule --help
+cd rust/day-01/
+git status
+ls -a
+rm .git
+git status
+git remote
+cd ..
+ls -s | where type == dir and name =~ day-* | get name |each {|name| cd $name; rm .git}}
+ls -s | where type == dir and name =~ day-* | get name |each {|name| cd $name; rm .git}
+ls -s | where type == dir and name =~ day-* | get name |each {|name| cd $name; rm .git; cd ..}
+ls -rs | where type == dir and name =~ day-* | get name |each {|name| cd $name; rm .git; cd ..}
+ls -s | where type == dir and name =~ day-* | get name |each {|name| cd $name; rm .git; cd ..}
+ls -s | where type == dir and name =~ day-* | get name |each {|name| cd $name; rm -f .git; cd ..}
+git status
+ls
+cd day-01/
+git status
+git ls-files
+cd ..
+git add day-01/
+git status
+cd ..
+cd 2023
+git ls-files
+git commit -m "current is good?"
+git push
+ls
+ls -a
+git rm -f .gitmodules
+ls -a
+git status
+git commit -m "removed submoduling"
+git push
+git submodule status
+cd .git/
+ls
+cd modules/
+ks
+ls
+cd rust/
+ls
+cd day-01
+ls
+cd ..
+git submodule status
+cd .git
+nano config
+ls
+rm -rd modules/
+rm -rf modules/
+cd ..
+git status
+git push -f
+git submodule status
+cd .git
+ls
+nano description
+ls branches/
+ls info/
+ls objects/
+git ls-files
+git log
+git revert *
+cd ..
+git revert *
+git log
+git revert 2f29cb836ed5dfcf32ccb101d86fc0524adccba2..96ea46cb304af666b4f104dea79b3ace6b42aa4d
+git revert --continue
+git status
+cd rust/
+ls
+cd day-01/
+ls
+cd src
+ls
+cd ..
+ls
+git status
+git add day-01/
+git status
+git add .
+save --help
+".vscode"|save --append .gitignore
+git status
+git add day-0*
+git status
+git add day-*
+git add .gitignore
+git commit -m "Add all days"
+git push
+ls
+exit
+ls
+description
+config --help
+ls
+git status
+bacon
+cargo install mprocs
+mprocs
+neofetch
+$SHELL
+$env.SHELL
+kernel
+ls
+cd advent-of-code/
+ls
+cd ..
+rm advent-of-code/
+cd advent-of-code/
+ls -a
+cd ..
+rm -rf advent-of-code/
+ls
+cd bin
+ls
+cd ..
+cd openh264/
+ls
+cd ..
+cd Oracle/
+ls
+cd oracle.oracledevtools/
+ls
+cd ..
+cd network/
+ls
+cd admin/
+ls
+cd ..
+rm -rf Oracle/
+ls
+ls -a
+wiki-tui
+cmd
+dnf cache
+dnf 
+dnf distro-sync
+sudo dnf distro-sync
+exit
+code
+ssh --help
+cd /etc
+ls
+cd ssh
+ls
+cat ssh_config
+ls
+cd Documents/
+ls
+cd `Code Projects/`
+ls
+mkdir http-server
+rm http-server/
+cargo new http-server
+code http-server/
+cd `Documents/Code Projects/http-server/`
+ls
+cargo build
+cargo run
+nc --help
+nc 127.0.0.1 7878 << "Hi"
+echo "Hello"nc 127.0.0.1 7878
+echo "Hello" | nc 127.0.0.1 7878
+cargo run
+sudo cargo run
+cargo run
+ls
+touch hello.html
+cargo run
+<!DOCTYPE html><\n><html lang="en"><\n>  <head><\n>    <meta charset="utf-8"><\n>    <title>Hello!</title><\n>  </head><\n>  <body><\n>    <h1>Oops!</h1><\n>    <p>Sorry, I don't know what you're asking for.</p><\n>  </body><\n></html><\n>| save 404.html
+echo "<!DOCTYPE html><\n><html lang="en"><\n>  <head><\n>    <meta charset="utf-8"><\n>    <title>Hello!</title><\n>  </head><\n>  <body><\n>    <h1>Oops!</h1><\n>    <p>Sorry, I don't know what you're asking for.</p><\n>  </body><\n></html>"<\n>| save 404.html
+cargo run
+ls
+touch src/lib.rs
+code src/lib.rs
+cargo run
+cargo r
+cargo check
+cargo run
+cargo c
+cargo run
+cargo c
+cargo run
+cargo run -r
+git status
+echo "target/"
+echo "target/" | save .gitignore
+echo "target/" | save --append .gitignore
+git status
+git add .
+git commit -m "Made a multithreaded http server using a threadpool :), now how do I give it a global ip"
+git remote add origin git@github.com:AnthonyZhOon/simple-http-server.git
+git push -u origin main
+echo "# Simple HTTP server" | save README.md
+git add README.md
+git commit -m "add readme"
+git branch -b main
+git branch -M main
+git push -u origin main
+code README.md
+git add README.md
+git commit -m "add readme description and run"
+git push
+route
+route --help
+ip
+ip address show
+curl ipinfo.io/ip
+curl ipinfo.io/ip\
+nc 59.102.62.228:7878
+nc 59.102.62.228 7878
+sudo nc -l 59.102.62.228 7878
+ping 59.102.62.228
+nc --help
+nc
+ping 59.102.62.228
+ping localhost
+nc -l
+man nc
+nc -l -p 80
+curl 59.102.62.228
+curl ipinfo.io/ip
+curl 192.168.1.1
+dnf search arm-image
+sudo dnf install arm-image-installer
+curl -O https://fedoraproject.org/fedora.gpg
+cd Downloads/
+gpgv --keyring ./fedora.gpg Fedora-Server-39-1.5-aarch64-CHECKSUM
+ls
+sha256sum -c Fedora-Server-39-1.5.aarch64.raw.xz
+tar --unzip Fedora-Server-39-1.5.aarch64.raw.xz
+tar -xf Fedora-Server-39-1.5.aarch64.raw.xz
+file
+file Fedora-Server-39-1.5.aarch64.raw.xz
+gpgv --keyring ./fedora.gpg Fedora-Server-39-1.5-aarch64-CHECKSUM
+gpgv --keyring ./fedora.gpg Fedora-Server-39-1.5.aarch64.raw
+ls
+sha256sum -c Fedora-Server-39-1.5.aarch64.raw
+fiel Fedora-Server-39-1.5.aarch64.raw
+file Fedora-Server-39-1.5.aarch64.raw
+file Fedora-Server-39-1.5.aarch64.raw.xz
+crc64sum 
+gpgv --keyring ./fedora.gpg Fedora-Server-39-1.5-aarch64-CHECKSUM
+sha256sum -c Fedora-Server-39-1.5-aarch64-CHECKSUM
+lsblk
+sudo arm-image-installer --supported
+sudo arm-image-installer --supported | grep pi
+ls
+cd Downloads/
+ls
+cat README.md
+ls
+rm OFL.txt README.md *.jp* Nerd* Fedora-Server-39-1.5.aarch64.raw 
+rm 7775d22df8bc896b87c593f24f7366eb_MIT6_172F18_hw1.zip
+sudo arm-image-installer --image=Fedora-Server-39-1.5.aarch64.raw.xz --target=rpi4 --media=/dev/sdc
+ping 192.168.0.1
+ping 192.168.1.1
+route
+ip
+ip address show
+ping
+ping d8:5e:d3:db:ce:c7
+ip address show
+ping --help
+ping eth0
+ping eth0 192.168.1.1
+ping lo 192.168.1.1
+ping -I lo 192.168.1.1
+ping -I lo 192.168.1.107
+ping -I etho0 192.168.1.1
+ping -I eth0 192.168.1.1
+ping -I eth0 192.168.0.1
+ping -I eth0 192.168.0.170
+ping --help
+ping -I lo 192.168.1.107
+ping  192.168.1.107
+cd /etc/sysconfig/network-scripts/
+ls
+cat readme-ifcfg-rh.txt
+cd /etc/NetworkManager/system-connections/
+ls
+cat `Wired connection 1.nmconnection`
+sudo cat `Wired connection 1.nmconnection`
+sudo dnf install rpi-imager
+rpi-imager
+cd Downloads/
+ls
+gpgv --keyring ./fedora.gpg Fedora-Server-39-1.5-aarch64-CHECKSUM
+sha256sum -c Fedora-Server-39-1.5-aarch64-CHECKSUM
+sha256sum -c *
+ls
+gpgv --keyring ./fedora.gpg `Fedora-Server-39-1 (1).5-aarch64-CHECKSUM`
+sha256sum -c `Fedora-Server-39-1 (1).5-aarch64-CHECKSUM`
+raspi-imager
+lsblk
+rpi-imager
+nmcli connection show
+nmcli connection 
+nmcli connection --help
+nmcli connection monitor
+nmcli connection edit "Wired connection 3"
+lsmod
+ratbagd
+sudo ratbagd
+cd /usr/bin
+ls
+ls |grep python
+which python
+file python
+file python3
+python 3.12
+file python3.12
+./python3.12
+clear
+ls
+ls | grep python
+python3.12
+file python3.12
+cargo run -r
+cargo c
+cargo run
+python3.12
+echo "Beep boop" | nc 127.0.0.1 7878
+echo "" | nc 127.0.0.1 7878
+echo "Beep boop" | nc 127.0.0.1 7878
+echo "GET / HTTP/1.1" | nc 127.0.0.1 7878
+cargo run
+git status
+git add .
+git commit -m "Added 400 Bad Request for empty message sent to server"
+git push
+git pull
+git config pull.rebase false
+git pull
+git add 
+git add .
+git commit -m "Changed 400.html to not reveal why it was rejected"
+git push
+htop
+curl 192.168.1.107
+man curl
+curl 192.168.1.107:7878
+ip address show
+curl 127.0.0.1:7878
+route
+ping  192.168.1.107
+ping  127.0.0.1
+cargo run
+curl 127.0.0.1:7878
+curl 192.168.1.107:7878
+curl 192.168.1.108:7878
+curl 192.168.1.101:7878
+cargo run
+curl 192.168.1.107:7878
+curl ipinfo.io/ip
+curl 59.102.62.228
+curl 59.102.62.228:7878
+curl 59.102.62.228:80
+ipconfig
+ifconfig
+more interfaces
+ip addr
+cargo run
+which cat.jpg
+file cat.jpg
+cargo run
+git status
+git add .
+telnet www.somehost.com 80<\n>
+telnet
+dnf search telnet
+sudo dnf install telnet
+telnet www.somehost.com 80<\n>
+telnet www.google.com 80<\n>
+git status
+git commit -m "Added a picture to load, used a colour theme!, something else probably"
+git push
+git log
+git inspect
+ls
+cd Downloads/
+ls
+cp `26453-Article Text-30516-1-2-20230626.pdf` `~/Documents/Code Projects/http-server/`
+cargo run
+ls
+sudo dnf update
+inkscape
+which img-viewer
+which img
+mv favicon.png icon.png
+mv favicon.png icon.png --force
+git diff
+git add .
+git commit -m "Gave the website an icon and it can serve a pdf!"
+git push
+cargo run
+exit
+openssl req -nodes -newkey rsa:2048 -keyout example.key -out example.crt -x509 -days 365
+ls
+mrpocs
+mprocs
+mrpocs
+git status
+git diff
+git add .
+git commit -m "Simplified HTML by inheriting style"
+git push
+rm example*
+rm hello.md
+htop
+mv ~/Downloads/ANTHONY_OON_RESUME-21-01.pdf CV.pdf
+ls
+rm sipp.pdf
+ls
+git status
+git add .
+git commit -m "Removed superfluous files and extended main page to link to CV and describe the project"
+git push
+git status
+git add . "More things todo in README, removed sleep page"
+git add .
+git commit -m "More things TODO in README, removed sleep page."
+curl 59.102.62.228:80
+cargo run
+cargo run
+clear
+cargo run
+cargo run -r
+cargo run
+cargo run -r
+cargo build -h
+cargo help build
+./http-server
+cargo build --target-dir .
+cargo build --target-dir -r .
+cargo build --target-dir . -r
+cargo build -r --target-dir .
+cargo run -r
+code .gitignore
+git status
+cargo build -r --target-dir .
+git restore README.md
+git status
+git add src/
+git commit -m "Removed all failure and enumerated Request and Response types to generalise send_response()"
+git push
+rm .rustc_info.json
+cd contents/
+git init
+git commit -m "Uploading website contents to private repo"
+git branch -M main
+git remote add origin git@github.com:AnthonyZhOon/personal-website-contents.git
+git push -u origin main
+cd ..
+git submodule status
+git submodule
+git submodule --help
+git submodule add git@github.com:AnthonyZhOon/personal-website-contents.git
+git submodule --help
+git submodule status
+git submodule deinit personal-website-contents/
+git submodule deinit personal-website-contents/ -f
+git submodule deinit -f personal-website-contents/ 
+git submodule add git@github.com:AnthonyZhOon/personal-website-contents.git contents/
+ls
+git status
+git restore personal-website-contents
+git status
+rm personal-website-contents/
+git add .
+git commit -m "Separated public server code from private contents"
+git push
+cargo check
+cargo help
+cargo doc
+cargo --list
+cargo tree
+cargo rustdoc
+cargo metadata
+echo "Copyright © 2024 Anthony Oon<\n><\n>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<\n><\n>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<\n><\n>THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE." | save LICENSE
+git add .
+git commit -m "Add LICENSE"
+git push
+cargo build --target-dir .
+cargo run --hostname 192.168.1.107 --port 7878
+cargo run -- --hostname 192.168.1.107 --port 7878
+cargo run -- --hostname 192.168.1.107 --port 8008
+cargo run -r -- --hostname 192.168.1.107 --port 8008
+curl 192.168.1.107:8008/../README.md
+echo "GET /../README.md HTTP/1.1\r\n" | nc 192.168.1.107 8008 
+echo "GET /../README.md HTTP/1.1\r\n" | nc 59.102.62.228 80 
+cargo run -r -- --hostname 192.168.1.107 --port 8008
+git status
+git add src/main.rs 
+git commit -m "Prevent navigating up directories when requesting resources"
+git push
+git pull
+git push
+ls -a contents
+ls -a contents/
+cd contents/.git
+ls
+cd ..
+cargo run -r -- --hostname 192.168.1.107 --port 8008
+cd ..
+cargo run -r -- --hostname 192.168.1.107 --port 8008
+cd contents/
+cargo run -r -- --hostname 192.168.1.107 --port 8008
+ls -a contents/
+git status
+git ls-files
+git add CV.pdf
+git ls-files
+git add contents/
+git status
+git add .
+git commit -m "Moved contents below .git dir"
+git push
+cargo run -r -- --hostname 192.168.1.107 --port 8008
+git status
+cd ..
+git status
+git add .
+git commit -m "Now checking that requested resources exist precisely in the contents/ folder"
+git push
+cd contents/
+git status
+git add . 
+git commit -m "Removed CV from website"
+git push
+cd Downloads/
+sha256sum -c `Fedora-Server-39-1 (1).5-aarch64-CHECKSUM`
+sha256sum -c `Fedora-Server-39-1.5-aarch64-CHECKSUM`
+lsblk
+sudo arm-image-installer --image=Fedora-Server-39-1.5.aarch64.raw.xz --target=rpi4 --resizefs --media=/dev/sdb
+sudo arm-image-installer --image=Fedora-Server-39-1.5.aarch64.raw.xz --target=rpi4 --media=/dev/sdb
+lsblk
+sudo arm-image-installer --image=Fedora-Server-39-1.5.aarch64.raw.xz --target=rpi4 --media=/dev/sdd
+git status
+cd ..
+git status
+git add src/main.rs
+git commit -m "Logging when ../ is used in path"
+git push
+cd contents/
+cat stderr.log
+cat stdout.log
+cat stderr.log
+echo "cargo run -r -- --hostname 192.168.1.107 --port 8008 > >(tee -a stdout.log) 2> >(tee -a stderr.log >&2)"| save compileRun.sh
+./compileRun.sh
+man chmod
+chhmod x compileRun.sh
+chmod x compileRun.sh
+chmod --help
+chmod ux compileRun.sh
+man chmod
+chmod u+x compileRun.sh
+compileRun.sh
+./compileRun.sh
+arm-image-installer --version
+sudo dnf update arm-image-installer 
+sudo dnf -y update arm-image-installer 
+lsblk
+mprocs
+git status
+git add contents/index.html
+git commit -m "Changed link colour to Accent (vibrant)"
+git push
+cd ..
+git status
+git fetch
+cargo run --port 8008
+cargo run -- --port 8008
+cd contents/
+cargo run -- --port 8008
+man tee
+echo "Worker" 2>  >(tee -a stdout.log) 2> >(tee -a stderr.log >&2)
+cargo run >  >(tee -a stdout.log) 2> >(tee -a stderr.log >&2)
+cd Downloads/
+ls
+rm Fedora*
+ls
+sudo dnf update arm-image-installer 
+arm-image-installer --version
+ls
+rm fedora.gpg
+curl https://getfedora.org/static/fedora.gpg | gpg --import gpg --verify-files *-CHECKSUM sha256sum -c *-CHECKSUM
+ls
+curl https://getfedora.org/static/fedora.gpg | gpg --import gpg --verify-files *-CHECKSUM sha256sum -c *-CHECKSUM
+curl https://getfedora.org/static/fedora.gpg
+curl https://getfedora.org/fedora.gpg
+curl -O https://fedoraproject.org/fedora.gpg
+gpgv --keyring ./fedora.gpg Fedora-Server-39-1.5-aarch64-CHECKSUM
+ls
+mv Fedora-Server-39-1.5-aarch64-CHECKSUM.txt Fedora-Server-39-1.5-aarch64-CHECKSUM
+gpgv --keyring ./fedora.gpg Fedora-Server-39-1.5-aarch64-CHECKSUM
+sha256sum -c Fedora-Server-39-1.5-aarch64-CHECKSUM
+lsblk
+sudo arm-image-installer --image=Fedora-Server-39-1.5.aarch64.raw.xz --target=rpi4 --media=/dev/sdd --resizefs
+sudo dnf update arm-image-installer 
+mv arm-image-installer.txt arm-image-installer
+ls
+chmod u+x arm-image-installer
+./arm-image-installer --version
+./arm-image-installer --help
+ssh-keygen --help
+ls
+tar -xf Fedora-Server-39-1.5.aarch64.raw.xz
+ls
+file Fedora-Server-39-1.5.aarch64.raw.xz
+file Fedora-Server-39-1.5.aarch64.raw
+lsblk
+sudo arm-image-installer --image=Fedora-Server-39-1.5.aarch64.raw.xz --target=rpi4 --media=/dev/sdd --resizefs --args "nomodeset"
+ls -a
+config env
+cd .local/
+ls
+cd lib
+ls
+ssh
+ssh --help
+cd .ssh
+ls
+nano id_ed25519.pub
+cat id_ed25519.pub
+ping 192.168.1.110
+ip addr show
+ping 192-168-1-110.tpgi.com.au
+ping 192-168-1-107.tpgi.com.au
+nmcli connection
+nmcli connection up
+nmcli 
+nmcli --help
+nmcli connection edit --help
+nmcli n
+nmcli n --help
+nmcli n check
+nmcli nmcli connection edit
+nmcli nmcli connection edit --help
+nmcli connection edit --help
+nmcli connection show --help
+nmcli connection show
+nmcli connection --help
+nmcli connection up --help
+nmcli connection show
+nmcli connection up enp5s0
+curl ipinfo.io/ip
+curl 192.168.1.1
+curl 220.240.175.169
+nmcli
+ping 192.168.1.1
+ping 192.168.1.107
+ping 192.168.1.1
+nmcli connection
+ip addr
+dnf search go
+dnf search golang
+dnf search go1
+unamia -a
+uname -a
+cd /usr/local
+ls
+cd ~/Downloads/
+ls
+man tar
+tar -C /usr/local -xzf go1.21.6.linux-amd64.tar.gz
+sudo tar -C /usr/local -xzf go1.21.6.linux-amd64.tar.gz
+ls /usr/local
+vim ~/.profile
+nano ~/.profile
+exit
+go version
+config env
+config nu
+config env
+export PATH=$PATH: /usr/local/go/bin
+help export
+gnome-terminal 
+nano ~/.profile
+help use
+ls -a
+cd .config/
+ls
+ls -a
+source $HOME/.profile
+source ~/.profile
+cat ~/.cargo/env
+nano ~/.profile
+source ~/.profile
+config nu
+config env
+go version
+config env
+exit
+config env
+exit
+go version
+cd `Documents/Code Projects/`
+ls
+mkdir "6.824 Distributed Systems"
+git clone git clone git://g.csail.mit.edu/6.824-golabs-2020 `6.824 Distributed Systems/`
+git clone git://g.csail.mit.edu/6.824-golabs-2020 `6.824 Distributed Systems/`
+ls `6.824 Distributed Systems/`
+cd `6.824 Distributed Systems/`
+git status
+git remote
+git remote add origin git@github.com:AnthonyZhOon/6.824.git
+git remote add personal git@github.com:AnthonyZhOon/6.824.git
+git branch -M main
+echo "# 6.824 Distributed Systems<\n>http://nil.csail.mit.edu/6.824/2020/index.html" | save README.md
+git add README.md
+git commit -m "Starting labs, problems and assignments for 6.824"
+git push -u personal main
+cd src/main/
+ls
+go build -buildmode=plugin ../mrapps/wc.go
+cd ..
+mkdir "Hello_Go"
+cd Hello_Go/
+go mod init
+go mod init example/hello
+vim
+go mod tidy
+go run .
+go mod tidy
+go run .
+go --help
+go mod --help
+go help mod
+go mod download
+go help mod tidy
+ls
+go mod tidy
+go run .
+go build
+./hello
+code `../6.824 Distributed Systems/`
+cd src/main
+go build -buildmode=plugin ../mrapps/wc.go
+go help build
+go build -buildmode=plugin ../mrapps/wc.go
+cd ..
+go build -buildmode=plugin mrapps/wc.go
+cat wc.go
+cat mrapps/wc.go
+$env
+cd main/
+go build -buildmode=plugin mrapps/wc.go
+go build -buildmode=plugin ../mrapps/wc.go
+cd ..
+ls
+cd mrapps/
+code wc.go
+pwd
+cd ../main/
+go build -buildmode=plugin ../mrapps/wc.go
+ls ..
+go build -buildmode=plugin ../mrapps/wc.go
+go build -buildmode=plugin ../mrapps/wc.go -o hello
+go build -buildmode=plugin ../mrapps/wc.go -o hello.go
+go build -buildmode=plugin -o ../mrapps/wc.go 
+cd ../..
+go mode init
+go mod init
+cd src/
+go mod init
+go mod init dist
+go mod tidy
+cd main/
+go build -buildmode=plugin -o ../mrapps/wc.go 
+cd ..
+rg ../
+rg \.\./
+go help replace
+go help
+go help mod
+rg \.\./
+cd main
+go build -buildmode=plugin -o ../mrapps/wc.go 
+cd ..
+go mod tidy
+cd main
+go build -buildmode=plugin -o ../mrapps/wc.go 
+cd ..
+ls
+rm -rd .
+rm -rf .
+rm -rf *
+ls
+cd ..
+git clone https://github.com/arindas/mit-6.824-distributed-systems.git `6.824 Distributed Systems/`
+ls -a `6.824 Distributed Systems/`
+rm `6.824 Distributed Systems/`*
+rm `6.824 Distributed Systems`/*
+rm  -rf `6.824 Distributed Systems`
+git clone https://github.com/arindas/mit-6.824-distributed-systems.git `6.824 Distributed Systems/` 6.824-distributed-systems
+git clone https://github.com/arindas/mit-6.824-distributed-systems.git 6.824-distributed-systems
+ls
+cd 6.824-distributed-systems/
+code `Documents/Code Projects/6.824-distributed-systems/`
+cd cmd/
+go build -buildmode=plugin mr/apps/wc/wc.go
+cd mr/apps/wc/
+go build -buildmode=plugin wc.go
+ls
+cd ..
+rg mrmaster
+ls -r | find mrmaster
+ls -R | find mrmaster
+ls
+ls --tree
+ls -T
+ls --help
+find mrmaster
+find --help
+go run mr/coordinator/mrcoordinator.go pg*.txt
+go mod
+go mod tidy
+cd mr/coordinator/
+go mod tidy
+cd cmd/mr/worker/
+ls
+go run mrworker.go wc.so
+go run mrcoordinator.go pg*.txt
+go run mrworker.go wc.so
+go run mrcoordinator.go ../../../datasets/pg-*.txt
+ls ../../../datasets/pg-*.txt
+ls ../../datasets/pg-*.txt
+ls ../
+ls ../../
+ls ../../../
+ls ../../../datasets/
+ls ../../../datasets/project-gutenberg/
+ls ../../../datasets/project-gutenberg/pg-*.txt
+go run mrcoordinator.go ../../../datasets/project-gutenberg/pg-*.txt
+ls ../../../datasets/project-gutenberg/pg-*.txt
+go run mrworker.go wc.so
+go run mrcoordinator.go ../../../datasets/project-gutenberg/pg-being_ernest.txt
+cd ..
+go run mrworker.go 
+go run mrworker.go wc.so
+cd ..
+cd mr/scripts/
+ls
+bash test-mr.sh
+cat test-mr.sh
+(cd ../../apps/wc && go build $RACE -buildmode=plugin wc.go) || exit 1
+(cd ../../apps/wc && go build $RACE -buildmode=plugin wc.go) try exit 1
+(cd ../../apps/wc ; go build $RACE -buildmode=plugin wc.go) try exit 1
+RACE=-race
+let RACE=-race
+let RACE =-race
+let RACE = -race
+try (cd ../../apps/wc ; go build $RACE -buildmode=plugin wc.go) except exit 1
+try (cd ../../apps/wc ; go build $RACE -buildmode=plugin wc.go) catch exit 1
+try (cd ../../apps/wc ; go build $RACE -buildmode=plugin wc.go) catch (exit 1)
+ls ../../apps
+ls ../../
+ls ../../../
+ls ../
+try (cd ../apps/wc ; go build $RACE -buildmode=plugin wc.go) catch (exit 1)
+cd ..
+ls 
+ls --help
+ls 
+ls mr
+ls mr/apps
+cd mr/apps/
+ls
+ls wc
+ls | each {|dir| cd $dir; go build}
+ls | each {|dir| cd $dir.name; go build}
+cd crash/
+ls
+go build
+cat crash.go
+cd ..
+cd..
+cd ..
+cd pkg/
+go test
+cd ../..
+ls
+cd cmd/mr/scripts/
+ls
+cd cd ..
+cd ..
+cd pkg/mr/
+ls
+code .
+cd `Documents/Code Projects/6.824-distributed-systems/`
+cd cmd/mr/scripts/
+ls
+cd ../..
+cp datasets/project-gutenberg/* pkg/mr/
+code cmd/mr/scripts/test-mr.sh
+go build
+ls
+cp cmd/mr/apps/wc/wc.so pkg/mr/
+go run coordinator.go pg-*.txt
+go build coordinator.go
+cd cmd
+ls
+cd ..
+ls
+cd mr
+cd apps/
+cd ..
+cd coordinator/
+ls
+cat mrcoordinator.go
+cp datasets/project-gutenberg/* cmd/mr/coordinator/
+ls
+go build mrcoordinator.go
+cp cmd/mr/apps/wc/wc.so cmd/mr/worker/
+code cmd/mr
+cd coordinator/
+go build mrcoordinator.go
+./mrcoordinator pg*.txt
+ls
+go build mrcoordinator.go
+./mrcoordinator pg*.txt
+go build mrcoordinator.go
+./mrcoordinator pg*.txt
+wc pg-being_ernest.txt
+cd ..
+cd scripts/
+bash test-mr.sh
+cd coordinator/
+go build mrcoordinator.go
+cd worker/
+go build mrworker.go
+./mrworker.go ../apps/wc/wc.so
+./mrworker ../apps/wc/wc.so
+cd apps/wc/
+go build -buildmode=plugin wc.go
+go build mrworker.go
+./mrworker ../apps/wc/wc.so
+go build mrworker.go
+./mrworker ../apps/wc/wc.so
+./mrcoordinator pg*.txt
+go build mrcoordinator.go
+./mrcoordinator pg*.txt
+go build mrcoordinator.go
+go build mrworker.go
+./mrworker ../apps/wc/wc.so
+go build -buildmode=plugin wc.go
+./mrcoordinator pg*.txt
+go buiild mrworker.go
+go build mrworker.go
+go build mrcoordinator.go
+./mrworker ../apps/wc/wc.so
+./mrcoordinator pg*.txt
+go build -buildmode=plugin wc.go
+go build mrcoordinator.go
+go build mrworker.go
+./mrcoordinator pg*.txt
+./mrworker ../apps/wc/wc.so
+cd /var/tmp/
+touch a
+rm a
+ls
+go build -buildmode=plugin wc.go
+go build mrworker.go
+go build mrcoordinator.go
+./mrcoordinator pg*.txt
+./mrworker ../apps/wc/wc.so
+go build mrworker.go
+go build mrcoordinator.go
+./mrworker ../apps/wc/wc.so
+go build -buildmode=plugin wc.go
+go build mrworker.go
+./mrcoordinator pg*.txt
+go build mrcoordinator.go
+./mrworker ../apps/wc/wc.so
+go build mrworker.go
+./mrcoordinator pg*.txt
+go build mrcoordinator.go
+./mrworker ../apps/wc/wc.so
+go build -buildmode=plugin wc.go
+./mrcoordinator pg*.txt
+go build mrcoordinator.go
+go build mrworker.go
+./mrworker ../apps/wc/wc.so
+./mrcoordinator pg*.txt
+go build mrcoordinator.go
+go build mrcoordinator.go
+go build mrworker.go
+./mrcoordinator pg*.txt
+./mrworker ../apps/wc/wc.so
+cd scripts/
+bash test-mr.sh
+cd scripts/
+bash test-mr.sh
+cd scripts/
+bash test-mr.sh
+cd scripts/
+bash test-mr.sh
+cd scripts/
+bash test-mr.sh
+go run test.go
+go build test.go
+ls
+go build
+./hello
+go build
+./hello
+bash test-mr-part.sh
+go run
+go run .
+bash test-mr-part.sh
+ls -a mr-tmp/
+arp -a
+ping 192.158.0.1
+ping 192.158.0.101
+cd Downloads/
+ls
+sudo ovpn --config guest.ovpn
+sudo openmvpn --config guest.ovpn
+sudo openvpn --config guest.ovpn
+bash test-mr-part.sh
+git status
+git add ..
+git commit -m "Working on MapReduce, up to implementing Reduce logic on Workers"
+git push
+git remote add personal git@github.com:AnthonyZhOon/6.824.git
+git push -u personal main
+git push --force -u personal main
+cargo-install zellij
+cargo install zellij
+cargo install --locked zellij
+rustup
+rustup show
+rustup check
+dnf list | grep rust
+dnf list --installed | grep rust
+rustup
+rustup self
+rustup self update
+dnf search zellij
+sudo dnf copr enable varlad/zellij <\n>sudo dnf install zellij
+cargo run
+cargo check
+cargo fix
+cargo fix --allow-dirty
+cargo run
+which oracledatamodeler
+which gnome-software
+cd /usr/bin/
+ls
+ripgrep oracle
+rg datamodeler
+rg --help
+ls
+file Oracle-datamodeler.desktop
+bat
+bat Oracle-datamodeler.desktop
+datamodeler
+dnf search jdk
+zellij
+cd Documents/FIT3171/group_repo/
+ls
+git fetch
+zellij
+cd ~/.cargo/
+cargo uninstall zellij
+cd bin/
+ls
+mv `~/Documents/Code Projects/zellij/target/x86_64-unknown-linux-gnu/release/zellij` zellij
+zellij
+edit
+zellij edit .
+zellij ls
+cd ~/Documents/FIT3171/
+cd group_repo/
+ls
+git status
+git add . 
+git commit -m "Add surrogate keys"
+git push
+cd ~/Downloads/
+git status
+git add .
+git commit -m "Revising phone number type, decomposing member address"
+git puah
+git push
+git status
+git add .
+cd Documents/FIT3171/group_repo/
+git status
+git add .
+git commit -m "Test engineer relational model"
+git push
+git status
+git commit -m "Add class duration attr. make FACILITY_CLASS relationship non-identifying"
+git push
+git status
+git add .
+git status
+git add .
+git commit -m "Move entities to make the relationship verb more readable"
+git push
+git add .
+git commit -m "Tested engineering drafted logical model"
+git push
+git add .
+git commit -m "Fixed error constraint name too long in SQL DDL, untick 'Apply name translation' at Engineer to Relational model step"
+git push
+datamodeler
+git status
+ping google.com
+nmcli connection
+curl google.com
+ping 193.195.23.23
+curl google.com
+arp -a
+netstat -n
+ping 1.1.1.1
+route
+curl google.com
+ping 192.168.0.1
+ping 192.168.0.67
+curl google.com
+ping 1.1.1.1
+curl google.com
+nvidia-smi
+mokutl --sb-state
+mokutil --sb-state
+dnf search kernel
+dnf info kernel-core
+dnf help
+sudo dnf install kernel-6.6.4*
+ls
+mkdir kernels
+cd kernels/
+sudo dnf install *
+ls
+sudo dnf install kernel-6.6.4-200.fc39.x86_64.rpm
+sudo dnf install kernel-core-6.6.4-200.fc39.x86_64.rpm
+sudo dnf install *
+man dnf
+dnf install --help
+dnf install  * --noautoremove
+sudo dnf install  * --noautoremove
+sudo dnf mark kernel-6.6.4*
+dnf mark --help
+dnf mark install kernel-6.6.4*
+sudo dnf mark install kernel-6.6.4*
+sudo dnf install kernel-core-6.6.4-200.fc39.x86_64.rpm
+man dnf mark
+cd ~/Documents/FIT3171/group_repo/Assignments/Ass1Logical/
+ls
+cat vfc_schema.ddl
+mv vfc_schema.ddl vfc_schema.sql
+ls
+git status
+git add vfc_schema.sql
+git add --all
+git status
+git commit -m "Finalise changes made from reviewing brief and ed forum, generated schema sqal"
+git push
+cd ~/Downloads/
+vim vfc_schema.sql
+git status
+git add --all
+git commit -m "Add anthony's student name and id to sql schema file"
+git push
+git pull
+datamodeler
+sudo openvpn --config guest.ovpn
+exit
+sudo dnf reinstall linux-firmware
+cd Downloads/
+git pull
+exit
+cd ..
+cd ../..
+cd workspace/
+cd Applieds/Wk5/App09/
+vim .
+git status
+cd ..
+git status
+exit
+git status
+git add Applieds/Wk5/App09/applied9_sql_basic_intermediate.sql
+git commit -m "Vimming the sql problems away"
+git push
+git status
+git add Applieds/Wk5/App09/applied9_sql_basic_intermediate.sql
+git commit
+git status
+git add Applieds/Wk5/App09/applied9_sql_basic_intermediate.sql
+git commit -m "Working on Part B applied 9, vim has not gotten faster"
+git push
+cd Documents/
+ls
+cd `Code Projects/`
+ls
+git clone git@github.com:anthonyzhoon/rust.git
+code rust
+ls
+ls | grep linked_list
+ls --help
+ls **linked_list*.rs
+ls **/linked_list.rs
+ls **/hash/set.rs
+cargo doc
+cargo help
+cargo update
+ls
+cargo doc
+./x.py doc
+./configure
+./x.py doc
+./x.py build && ./x.py install
+./x.py build and ./x.py install
+./x.py build; ./x.py install
+./configure --set install.prefix=install
+./x.py build
+dnf search llvm
+./x.py build
+exit
+cd ..
+ls
+cd Documents/Code-Projects/
+ls
+code rust
+./x.py build
+./x.py install
+sudo ./x.py install
+./x.py doc
+cd library/src
+ls
+cd library/
+ls
+cd std/
+ls
+cd ..
+cd std/alloc
+cd alloc/
+ls
+cd src
+ls
+rg complexity
+rg Complexity
+rg "O("
+rg --help
+man rg
+rg --help
+rg --help
+rg -e "/O(/"
+rg -e "/O(.)/"
+rg O(.)
+rg O\(.\)
+rg O\(*\)
+rg O\(.*\)
+cd ..
+rg O\(.*\)
+cd ..
+rg O\(.*\)
+rg  O\(.*\)
+rg  " O\(.*\)"
+rg  \ O\(.*\)
+rg  [ ]O\(.*\)
+rg  [:space:]O\(.*\)
+rg  [:space:] O\(.*\)
+rg  "[:space:]O\(.*\)"
+rg  "[:space:]O(.*)"
+rg  "[:space:]O(.)"
+rg  "[:space:]O\(.\)"
+rg  "O\(.\)"
+rg  O\(.\)
+cd library/
+rg  O\(.\)
+rg  O\(.*\)
+cd alloc/
+rg  O\(.*\)
+rg  O.\(.*\)
+rg  O\*\(.*\)
+rg -C O\*\(.*\)
+rg --context O\*\(.*\)
+rg O\*\(.*\) --context
+rg O\*\(.*\) -- --context
+rg -h O\*\(.*\) 
+rg -h -e "O\*\(.*\)"
+rg -h -e O\*\(.*\)
+rg -C -e O\*\(.*\)
+rg -e O\*\(.*\) -C
+rg -e O\*\(.*\) -C 3
+rg -e O\*\(.*\) -C 2
+rg -e O\*\(.*\) -C 5
+rg -e O\*?\(.*\) -C 5
+cd rust/library/alloc/
+dnf search helix
+curl google.com
+arp -a
+netstat
+sudo openvpn --config guest.ovpn
+dnf search kernel modules
+dnf help
+dnf history
+helix
+sudo dnf install helix
+dnf info helix
+sudo dnf copr enable varlad/helix
+sudo dnf install helix
+helixz
+helix
+which helix
+helix-ide
+hx
+hx --health
+cp contrib/Helix.desktop ~/.local/share/applications<\n>cp contrib/helix.png ~/.icons # or ~/.local/share/icons
+kitty
+hx ~/.config/helix/config.toml
+kitty
+kittyhx
+hx
+kitty
+ls
+hx .config/helix/config.toml
+hx
+hx .
+exit
+exit
+zellij
+zelli
+hx .config/zellij/config.kdl
+exit
+zellij
+hx
+hx .config/alacritty/alacritty.toml
+exit
+curl -s https://gist.githubusercontent.com/lifepillar/09a44b8cf0f9397465614e622979107f/raw/24-bit-color.sh >24-bit-color.sh<\n>bash 24-bit-color.sh
+bash
+ls
+cd Downloads/
+exit
+git status
+git add Applieds/Wk5/App09/applied9_sql_basic_intermediate.sql
+git commit -m "Continuing subquery + Join tasks in applied 9"
+git push
+GIT STATUS
+git status
+git add Applieds/Wk5/App09/applied9_sql_basic_intermediate.sql
+git commit -m "2 questions to go, learned to aggregate on distinct column values"
+git push
+git status
+git add Applieds/Wk5/App09/applied9_sql_basic_intermediate.sql
+git commit -m "Finished all questions from applied 9, didn't learn that much until part C, Helix is new IDE?"
+git push
+nvidia-smi
+nvidia
+nvidia-smi
+journalctl --system -b
+nvidia
+nvidia-powerd 
+nvidia-modprobe 
+nvidia-settings 
+sudo dnf install wine
+sudo dnf install vulkan-loader vulkan-loader.i686
+sudo dnf update
+sudo dnf repository-packages rpmfusion-nonfree-nvidia-driver info
+nvidia-smi
+sudo zypper in libvulkan1 libvulkan1-32bit
+dnf search zypper
+sudo dnf install zypper
+sudo dnf remove zypper
+nvidia-smi
+sudo dnf remove zypper
+nvidia-smi
+dnf search *vulkan*
+nvidia-smi
+mokutil --list-enrolled
+ls
+cd keys/
+ls
+rm *
+mokutil --export
+ls
+cat MOK-0002.der
+sudo mokutil --help
+sudo mokutil --delete MOK-0002.der
+ls
+dnf search *vulkan*
+sudo dnf search nvidia*
+sudo dnf install xorg-x11-drv-nvidia.x86_64
+dnf search xorg-x11*
+dnf search *vulkan*
+sudo reboot
+sudo dnf reinstall linux-firmware
+sudo reboot
+nvidia-smi
+mokutil --list-enrolled
+sudo kmodgenca -a -f
+sudo mokutil --import /etc/pki/akmods/certs/public_key.der
+sudo reboot
+mokutil --list-enrolled
+sudo dnf remove kmod-nvidia-6.6.14*
+sudo dnf remove kmod-nvidia-*
+sudo dnf update
+sudo dnf install akmod-nvidia
+sudo dnf remove akmod-nvidia-*
+sudo dnf install akmod-nvidia
+sudo dnf remove xorg-x11-drv-nvidia-cuda
+sudo dnf install xorg-x11-drv-nvidia-cuda
+modinfo -F version nvidia
+kmod
+kmod list
+modinfo -F version nvidia
+sudo reboot
+nvidia-smi
+sudo dnf install vulkan-loader vulkan-loader.i686
+sudo dnf reinstall vulkan-loader vulkan-loader.i686
+sudo dnf update
+sudo dnf install fedora-workstation-repositories
+sudo dnf repository-packages rpmfusion-nonfree-nvidia-driver info
+helix Documents/FIT3171/workspace/
+alacritty
+cd Downloads/
+nvidia-smi
+cd Downloads/
+discord
+which discord
+dnf search discord
+git status
+git add Applieds/Wk5/App10/applied10_sql_advanced.sql Applieds/Wk5/App09/applied9_sql_basic_intermediate.sql
+git commit -m "Halfway through applied 10 problems, understood group by expression as composing to create vector of vectors meaning 2 aggregate functions can be composed to produce a single-vale."
+git push
+chrony
+chronyd
+chronyd --help
+man chronyd
+man chronyc
+cd /usr/share/doc/akmods/
+ls
+bat README
+bat README.secureboot
+sudo mokutil --test-key /etc/pki/akmods/certs/public_key.der
+kmod nvidia
+kmod list
+kmod list | grep nvidia
+nvidia-smi
+curl google.com
+ip addr
+ping 192.168.0.67
+ping 192.168.0.1
+nvidia-smi
+prime-run
+steam
+lspci
+dnf search nvidia-prime
+dnf search prime
+nvidia-smi
+htop
+neofetch
+sys
+journalctl --system -b
+nvidia-settings -v
+man nvidia-settings
+nvidia-settings
+dnf list installed \*nvidia\*
+dnf list installed *nvidia*
+dnf list installed
+dnf list installed *nvidia*
+nvidia-smi
+dnf search xorg-x11*
+dnf list installed '*nvidia*'
+inxi -Fzxx
+nvidia-modprobe
+nvidia-gpu-firmware
+sudo dnf reinstall linux-firmware
+htop
+nvidia-smi
+nvidia-drm
+modinfo -F version nvidia
+sudo dnf install akmod-nvidia
+sudo dnf reinstall akmod-nvidia
+mokutil --list-enrolled
+sudo dnf install vulkan
+gdm
+sudo gdm
+sudo dnf install nvidia-vaapi-driver libva-utils vdpauinfo
+kmod-nvidia
+kmod
+kmod list | grep nvidia\
+kmod list | grep nvidia
+sudo dnf list installed
+sudo dnf list installed '*nvidia*'
+sudo dnf install xorg-x11-drv-nvidia.i686
+vdpauinfo
+sudo dnf install https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm https://mirrors.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
+sudo dnf config-manager --enable fedora-cisco-openh264
+sudo dnf groupupdate core
+/sbin/lspci | grep -e VGA
+/sbin/lspci | grep -e 3D
+/usr/sbin/kmodgenca
+cd /usr/share/applications/
+ls
+cd ..
+ls
+ls -a
+cd bin
+ls
+man zipgrep
+cd /
+find steam
+find -d steam
+find --help
+ls
+ls --help
+eza
+eza --help
+eza -R | grep steam
+cd ~/.var/app/com.valvesoftware.Steam/
+ls
+cd config/
+ls
+cd ..
+cd data/
+ls
+cd Steam/
+ls
+bat steam.sh
+cd .var/app/com.valvesoftware.Steam/.local/share/Steam/
+ls
+config env
+exit
+exit
+zellij
+exit
+steam
+ls -a
+cd .config/
+ls
+ls -a
+git init
+git branch -M main
+git remote add origin git@github.com:AnthonyZhOon/dotfiles.git
+git push -u origin main
+git status

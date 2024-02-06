@@ -1,0 +1,25 @@
+# Use different pre-set defaults than the global defaults.
+#
+# See `src/bootstrap/defaults` for more information.
+# Note that this has no default value (x.py uses the defaults in `config.example.toml`).
+profile = 'dist'
+
+[llvm]
+
+[build]
+
+# Arguments passed to the `./configure` script, used during distcheck. You
+# probably won't fill this in but rather it's filled in by the `./configure`
+# script. Useful for debugging.
+configure-args = []
+
+[install]
+I've claimed this, but noticed 2 existing styles for documenting complexity in the collections docs, hashset uses a heading  `# performance` once while linked_list just writes it inline when complexity exists. 
+Also there's an existing `# performance` in the collections doc https://doc.rust-lang.org/std/collections/index.html#performance which has tables for the complexity of all collections, so 
+
+[rust]
+
+[target.x86_64-unknown-linux-gnu]
+
+[dist]
+

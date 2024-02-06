@@ -1,0 +1,106 @@
+2024-01-31 19:21:05.940 [info] 2024-01-31T08:21:05.919Z extension INFO  Activating extension... [
+  {
+    id: 'mongodb.mongodb-vscode',
+    version: '1.5.0',
+    mode: 'Production',
+    kind: 'UI',
+    extensionPath: '/home/anthonyoon/.vscode/extensions/mongodb.mongodb-vscode-1.5.0',
+    logPath: '/home/anthonyoon/.config/Code/logs/20240131T192104/window1/exthost/mongodb.mongodb-vscode',
+    workspaceStoragePath: undefined,
+    globalStoragePath: '/home/anthonyoon/.config/Code/User/globalStorage/mongodb.mongodb-vscode',
+    defaultConnectionSavingLocation: 'Global',
+    buildInfo: {
+      nodeVersion: 'v18.15.0',
+      runtimePlatform: 'linux',
+      runtimeArch: 'x64'
+    }
+  }
+]
+
+2024-01-31 19:21:05.940 [info] 2024-01-31T08:21:05.920Z telemetry INFO  SegmentKey was found [ { type: 'string' } ]
+
+2024-01-31 19:21:05.940 [info] 2024-01-31T08:21:05.920Z language server controller INFO  Creating MongoDB Language Server... [
+  {
+    extensionPath: '/home/anthonyoon/.vscode/extensions/mongodb.mongodb-vscode-1.5.0',
+    languageServer: {
+      id: 'mongodbLanguageServer',
+      name: 'MongoDB Language Server',
+      path: '/home/anthonyoon/.vscode/extensions/mongodb.mongodb-vscode-1.5.0/dist/languageServer.js',
+      documentSelector: '[{"pattern":"**/*.mongodb.js"},{"pattern":"**/*.mongodb"}]'
+    }
+  }
+]
+
+2024-01-31 19:21:05.940 [info] 2024-01-31T08:21:05.925Z telemetry INFO  Segment analytics activated [ { anonymousId: '3d197c32-519a-4e85-b44c-62338b7a0604' } ]
+
+2024-01-31 19:21:05.961 [info] 2024-01-31T08:21:05.961Z language server controller INFO  Starting the language server... []
+
+2024-01-31 19:21:06.242 [info] 2024-01-31T08:21:06.242Z language server controller INFO  MongoDBService initialized. Sending default settings... {"extensionPath":"/home/anthonyoon/.vscode/extensions/mongodb.mongodb-vscode-1.5.0","connectionId":null,"hasConnectionString":false,"hasConnectionOptions":false} []
+
+2024-01-31 19:51:01.471 [info] 2024-01-31T08:51:01.463Z extension INFO  Deactivating extension... []
+
+2024-01-31 19:51:01.471 [info] 2024-01-31T08:51:01.463Z connection controller INFO  Disconnect called, currently connected to [ null ]
+
+2024-01-31 19:51:01.471 [info] 2024-01-31T08:51:01.463Z language server controller INFO  Changing MongoDBService active connection... [ { connectionId: null } ]
+
+2024-01-31 19:51:01.471 [info] 2024-01-31T08:51:01.467Z connection controller INFO  Disconnect called, currently connected to [ null ]
+
+2024-01-31 19:51:01.471 [info] 2024-01-31T08:51:01.467Z language server controller INFO  Changing MongoDBService active connection... [ { connectionId: null } ]
+
+2024-01-31 19:51:01.471 [info] 2024-01-31T08:51:01.471Z language server controller INFO  Deactivating the language server... []
+
+2024-01-31 19:51:01.471 [info] 2024-01-31T08:51:01.471Z language server controller INFO  Deactivating the language server... []
+
+2024-01-31 19:51:05.511 [info] 2024-01-31T08:51:05.475Z extension INFO  Activating extension... [
+  {
+    id: 'mongodb.mongodb-vscode',
+    version: '1.5.0',
+    mode: 'Production',
+    kind: 'UI',
+    extensionPath: '/home/anthonyoon/.vscode/extensions/mongodb.mongodb-vscode-1.5.0',
+    logPath: '/home/anthonyoon/.config/Code/logs/20240131T192104/window1/exthost/mongodb.mongodb-vscode',
+    workspaceStoragePath: '/home/anthonyoon/.config/Code/User/workspaceStorage/6a2485fb1a86aac970f81af085f263fe/mongodb.mongodb-vscode',
+    globalStoragePath: '/home/anthonyoon/.config/Code/User/globalStorage/mongodb.mongodb-vscode',
+    defaultConnectionSavingLocation: 'Global',
+    buildInfo: {
+      nodeVersion: 'v18.15.0',
+      runtimePlatform: 'linux',
+      runtimeArch: 'x64'
+    }
+  }
+]
+
+2024-01-31 19:51:05.511 [info] 2024-01-31T08:51:05.475Z telemetry INFO  SegmentKey was found [ { type: 'string' } ]
+
+2024-01-31 19:51:05.511 [info] 2024-01-31T08:51:05.476Z language server controller INFO  Creating MongoDB Language Server... [
+  {
+    extensionPath: '/home/anthonyoon/.vscode/extensions/mongodb.mongodb-vscode-1.5.0',
+    languageServer: {
+      id: 'mongodbLanguageServer',
+      name: 'MongoDB Language Server',
+      path: '/home/anthonyoon/.vscode/extensions/mongodb.mongodb-vscode-1.5.0/dist/languageServer.js',
+      documentSelector: '[{"pattern":"**/*.mongodb.js"},{"pattern":"**/*.mongodb"}]'
+    }
+  }
+]
+
+2024-01-31 19:51:05.511 [info] 2024-01-31T08:51:05.482Z telemetry INFO  Segment analytics activated [ { anonymousId: '3d197c32-519a-4e85-b44c-62338b7a0604' } ]
+
+2024-01-31 19:51:05.618 [info] 2024-01-31T08:51:05.617Z language server controller INFO  Starting the language server... []
+
+2024-01-31 19:51:06.289 [info] 2024-01-31T08:51:06.289Z language server controller INFO  MongoDBService initialized. Sending default settings... {"extensionPath":"/home/anthonyoon/.vscode/extensions/mongodb.mongodb-vscode-1.5.0","connectionId":null,"hasConnectionString":false,"hasConnectionOptions":false} []
+
+2024-01-31 21:02:27.962 [info] 2024-01-31T10:02:27.953Z extension INFO  Deactivating extension... []
+
+2024-01-31 21:02:27.962 [info] 2024-01-31T10:02:27.953Z connection controller INFO  Disconnect called, currently connected to [ null ]
+
+2024-01-31 21:02:27.962 [info] 2024-01-31T10:02:27.953Z language server controller INFO  Changing MongoDBService active connection... [ { connectionId: null } ]
+
+2024-01-31 21:02:27.962 [info] 2024-01-31T10:02:27.955Z connection controller INFO  Disconnect called, currently connected to [ null ]
+
+2024-01-31 21:02:27.962 [info] 2024-01-31T10:02:27.955Z language server controller INFO  Changing MongoDBService active connection... [ { connectionId: null } ]
+
+2024-01-31 21:02:27.962 [info] 2024-01-31T10:02:27.962Z language server controller INFO  Deactivating the language server... []
+
+2024-01-31 21:02:27.962 [info] 2024-01-31T10:02:27.962Z language server controller INFO  Deactivating the language server... []
+

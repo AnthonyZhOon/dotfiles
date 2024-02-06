@@ -1,0 +1,22 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.minimap.enabled": false,
+    "oracledevtools.bookmarkFileFolder": "/home/anthonyoon/Oracle/oracle.oracledevtools",
+    "oracledevtools.download.otherFolder": "/home/anthonyoon/downloads",
+    "oracledevtools.connectionConfiguration.configFilesFolder": "/home/anthonyoon/Oracle/network/admin",
+    "[oraclesql]": {
+        "editor.suggest.showSnippets": true,
+        "editor.quickSuggestions": {
+            "comments": "on",
+            "strings": "on",
+            "other": "on"
+        }
+    },
+    "oracledevtools.connectionConfiguration.walletFileFolder": "/home/anthonyoon/Oracle/network/admin",
+    "remote.SSH.remotePlatform": {
+        "192.168.1.109": "windows"
+    },
+    "editor.fontFamily": "'DroidSansM Nerd Font'",
+    "workbench.colorTheme": "Tokyo Night AltSynt",
+    "terminal.external.linuxExec": "alacritty"
+}

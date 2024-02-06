@@ -1,0 +1,25 @@
+[2024-02-04 00:37:44.015] Starting Git Graph ...
+[2024-02-04 00:37:44.035] Using git (version: 2.43.0)
+[2024-02-04 00:37:44.037] Started Git Graph - Ready to use!
+[2024-02-04 00:37:44.037] Searching workspace for new repos ...
+[2024-02-04 00:37:44.040] > git rev-parse --show-toplevel
+[2024-02-04 00:37:44.575] Added new repo: /home/anthonyoon/Documents/Code-Projects/rust
+[2024-02-04 00:37:44.577] Successfully set Visual Studio Code Context "git-graph:codiconsSupported" to "true"
+[2024-02-04 00:37:44.631] > git rev-parse --show-toplevel
+[2024-02-04 00:37:44.690] > git rev-parse --show-toplevel
+[2024-02-04 00:37:44.698] > git rev-parse --show-toplevel
+[2024-02-04 00:37:44.709] > git rev-parse --show-toplevel
+[2024-02-04 00:37:44.715] > git rev-parse --show-toplevel
+[2024-02-04 00:37:44.720] > git rev-parse --show-toplevel
+[2024-02-04 00:37:44.727] > git rev-parse --show-toplevel
+[2024-02-04 00:37:44.732] > git rev-parse --show-toplevel
+[2024-02-04 00:37:44.737] > git rev-parse --show-toplevel
+[2024-02-04 00:37:44.742] > git rev-parse --show-toplevel
+[2024-02-04 00:37:44.747] > git rev-parse --show-toplevel
+[2024-02-04 00:37:44.748] Added new repo: /home/anthonyoon/Documents/Code-Projects/rust/src/tools/cargo
+[2024-02-04 00:37:44.748] Added new repo: /home/anthonyoon/Documents/Code-Projects/rust/src/doc/book
+[2024-02-04 00:37:44.748] Added new repo: /home/anthonyoon/Documents/Code-Projects/rust/library/stdarch
+[2024-02-04 00:37:44.748] Added new repo: /home/anthonyoon/Documents/Code-Projects/rust/src/llvm-project
+[2024-02-04 00:37:44.749] Added new repo: /home/anthonyoon/Documents/Code-Projects/rust/library/backtrace
+[2024-02-04 00:37:44.749] Completed searching workspace for new repos
+[2024-02-04 00:37:44.749] Showing "Git Graph" Status Bar Item

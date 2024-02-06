@@ -1,0 +1,20 @@
+2024-02-04 16:49:31.127 [info] Log level: Info
+2024-02-04 16:49:31.127 [info] Validating found git in: "git"
+2024-02-04 16:49:31.127 [info] Using git "2.43.0" from "git"
+2024-02-04 16:49:31.127 [info] > git rev-parse --show-toplevel [5ms]
+2024-02-04 16:49:31.127 [info] > git rev-parse --git-dir --git-common-dir [53ms]
+2024-02-04 16:49:31.127 [info] Open repository: /home/anthonyoon/Documents/FIT3171/workspace
+2024-02-04 16:49:31.168 [info] > git rev-parse --show-toplevel [26ms]
+2024-02-04 16:49:31.168 [info] > git config --get commit.template [32ms]
+2024-02-04 16:49:31.191 [info] > git rev-parse --show-toplevel [17ms]
+2024-02-04 16:49:31.199 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [18ms]
+2024-02-04 16:49:31.202 [info] > git rev-parse --show-toplevel [4ms]
+2024-02-04 16:49:31.227 [info] > git rev-parse --show-toplevel [11ms]
+2024-02-04 16:49:31.229 [info] > git status -z -uall [3ms]
+2024-02-04 16:49:31.262 [info] > git config --get commit.template [5ms]
+2024-02-04 16:49:31.279 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-02-04 16:49:31.288 [info] > git status -z -uall [2ms]
+2024-02-04 16:49:31.634 [info] > git show --textconv :Applieds/Wk5/App10/applied10_sql_advanced.sql [12ms]
+2024-02-04 16:49:31.636 [info] > git ls-files --stage -- /home/anthonyoon/Documents/FIT3171/workspace/Applieds/Wk5/App10/applied10_sql_advanced.sql [2ms]
+2024-02-04 16:49:31.645 [info] > git cat-file -s 16056a6fc3ddf28705697e69566d92deaa300166 [1ms]
+2024-02-04 16:49:31.670 [info] > git check-ignore -v -z --stdin [1ms]

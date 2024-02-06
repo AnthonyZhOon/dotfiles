@@ -1,0 +1,50 @@
+2024-02-04 00:37:41.274 [info] Configuration changed
+2024-02-04 00:37:41.421 [info] Configuration changed
+2024-02-04 00:37:43.031 [info] Configuration changed
+2024-02-04 00:37:43.848 [info] Configuration changed
+2024-02-04 00:37:43.927 [info] Configuration changed
+2024-02-04 00:37:43.979 [info] Configuration changed
+2024-02-04 00:38:32.375 [info] Active editor: file:///home/anthonyoon/Documents/Code-Projects/rust/config.toml
+2024-02-04 00:38:33.150 [info] /home/anthonyoon/Documents/Code-Projects/rust/config.toml closed
+2024-02-04 00:38:33.163 [info] Active editor: file:///home/anthonyoon/Documents/Code-Projects/rust/config.example.toml
+2024-02-04 00:38:33.169 [info] /home/anthonyoon/Documents/Code-Projects/rust/config.toml.git closed
+2024-02-04 00:38:45.485 [info] /home/anthonyoon/Documents/Code-Projects/rust/config.example.toml closed
+2024-02-04 00:38:45.496 [info] Active editor: file:///home/anthonyoon/Documents/Code-Projects/rust/config.toml
+2024-02-04 00:38:45.502 [info] /home/anthonyoon/Documents/Code-Projects/rust/config.example.toml.git closed
+2024-02-04 00:39:49.183 [info] Active editor: file:///home/anthonyoon/Documents/Code-Projects/rust/build/x86_64-unknown-linux-gnu/doc/releases.md
+2024-02-04 00:39:49.197 [info] /home/anthonyoon/Documents/Code-Projects/rust/config.toml.git closed
+2024-02-04 00:44:30.832 [info] /home/anthonyoon/Documents/Code-Projects/rust/build/x86_64-unknown-linux-gnu/doc/releases.md closed
+2024-02-04 00:44:30.848 [info] Active editor: file:///home/anthonyoon/Documents/Code-Projects/rust/build/x86_64-unknown-linux-gnu/doc/alloc/all.html
+2024-02-04 00:44:30.871 [info] /home/anthonyoon/Documents/Code-Projects/rust/build/x86_64-unknown-linux-gnu/doc/releases.md.git closed
+2024-02-04 00:44:50.697 [info] /home/anthonyoon/Documents/Code-Projects/rust/build/x86_64-unknown-linux-gnu/doc/alloc/all.html.git closed
+2024-02-04 00:45:02.964 [info] Active editor: file:///home/anthonyoon/Documents/Code-Projects/rust/build/x86_64-unknown-linux-gnu/doc/alloc/all.html
+2024-02-04 00:45:03.478 [info] /home/anthonyoon/Documents/Code-Projects/rust/build/x86_64-unknown-linux-gnu/doc/alloc/all.html.git closed
+2024-02-04 00:45:04.691 [info] Active editor: file:///home/anthonyoon/Documents/Code-Projects/rust/build/x86_64-unknown-linux-gnu/doc/alloc/all.html
+2024-02-04 00:45:12.139 [info] /home/anthonyoon/Documents/Code-Projects/rust/build/x86_64-unknown-linux-gnu/doc/alloc/all.html closed
+2024-02-04 00:45:12.149 [info] Active editor: file:///home/anthonyoon/Documents/Code-Projects/rust/build/x86_64-unknown-linux-gnu/doc/alloc/alloc/fn.dealloc.html
+2024-02-04 00:45:12.183 [info] /home/anthonyoon/Documents/Code-Projects/rust/build/x86_64-unknown-linux-gnu/doc/alloc/all.html.git closed
+2024-02-04 00:45:13.016 [info] /home/anthonyoon/Documents/Code-Projects/rust/build/x86_64-unknown-linux-gnu/doc/alloc/alloc/fn.dealloc.html closed
+2024-02-04 00:45:13.027 [info] Active editor: file:///home/anthonyoon/Documents/Code-Projects/rust/build/x86_64-unknown-linux-gnu/doc/alloc/alloc/fn.alloc.html
+2024-02-04 00:45:13.048 [info] /home/anthonyoon/Documents/Code-Projects/rust/build/x86_64-unknown-linux-gnu/doc/alloc/alloc/fn.dealloc.html.git closed
+2024-02-04 00:45:15.242 [info] /home/anthonyoon/Documents/Code-Projects/rust/build/x86_64-unknown-linux-gnu/doc/alloc/alloc/fn.alloc.html closed
+2024-02-04 00:45:15.271 [info] Active editor: file:///home/anthonyoon/Documents/Code-Projects/rust/build/x86_64-unknown-linux-gnu/doc/alloc/borrow/enum.Cow.html
+2024-02-04 00:45:15.312 [info] /home/anthonyoon/Documents/Code-Projects/rust/build/x86_64-unknown-linux-gnu/doc/alloc/alloc/fn.alloc.html.git closed
+2024-02-04 00:45:16.034 [info] /home/anthonyoon/Documents/Code-Projects/rust/build/x86_64-unknown-linux-gnu/doc/alloc/borrow/enum.Cow.html closed
+2024-02-04 00:45:16.042 [info] Active editor: file:///home/anthonyoon/Documents/Code-Projects/rust/build/x86_64-unknown-linux-gnu/doc/alloc/borrow/index.html
+2024-02-04 00:45:16.052 [info] /home/anthonyoon/Documents/Code-Projects/rust/build/x86_64-unknown-linux-gnu/doc/alloc/borrow/enum.Cow.html.git closed
+2024-02-04 00:45:16.918 [info] /home/anthonyoon/Documents/Code-Projects/rust/build/x86_64-unknown-linux-gnu/doc/alloc/borrow/index.html closed
+2024-02-04 00:45:16.938 [info] Active editor: file:///home/anthonyoon/Documents/Code-Projects/rust/build/x86_64-unknown-linux-gnu/doc/alloc/borrow/enum.Cow.html
+2024-02-04 00:45:16.959 [info] /home/anthonyoon/Documents/Code-Projects/rust/build/x86_64-unknown-linux-gnu/doc/alloc/borrow/index.html.git closed
+2024-02-04 00:56:53.531 [info] /home/anthonyoon/Documents/Code-Projects/rust/build/x86_64-unknown-linux-gnu/doc/alloc/borrow/enum.Cow.html closed
+2024-02-04 00:56:53.543 [info] Active editor: file:///home/anthonyoon/Documents/Code-Projects/rust/library/alloc/src/collections/mod.rs
+2024-02-04 00:56:53.551 [info] /home/anthonyoon/Documents/Code-Projects/rust/build/x86_64-unknown-linux-gnu/doc/alloc/borrow/enum.Cow.html.git closed
+2024-02-04 00:57:00.061 [info] /home/anthonyoon/Documents/Code-Projects/rust/library/alloc/src/collections/mod.rs closed
+2024-02-04 00:57:00.093 [info] Active editor: file:///home/anthonyoon/Documents/Code-Projects/rust/library/alloc/src/collections/linked_list.rs
+2024-02-04 00:57:00.108 [info] /home/anthonyoon/Documents/Code-Projects/rust/library/alloc/src/collections/mod.rs.git closed
+2024-02-04 00:57:07.560 [info] /home/anthonyoon/Documents/Code-Projects/rust/library/alloc/src/vec/mod.rs closed
+2024-02-04 00:57:08.649 [info] /home/anthonyoon/Documents/Code-Projects/rust/library/alloc/src/collections/vec_deque/mod.rs closed
+2024-02-04 00:57:52.797 [info] /home/anthonyoon/Documents/Code-Projects/rust/library/alloc/src/collections/linked_list.rs closed
+2024-02-04 00:57:52.809 [info] Active editor: file:///home/anthonyoon/Documents/Code-Projects/rust/build/x86_64-unknown-linux-gnu/doc/alloc/index.html
+2024-02-04 00:57:52.824 [info] /home/anthonyoon/Documents/Code-Projects/rust/library/alloc/src/collections/linked_list.rs.git closed
+2024-02-04 08:42:09.139 [info] Active editor: file:///home/anthonyoon/Documents/Code-Projects/rust/library/alloc/src/collections/vec_deque/mod.rs
+2024-02-04 08:42:09.148 [info] /home/anthonyoon/Documents/Code-Projects/rust/build/x86_64-unknown-linux-gnu/doc/alloc/index.html.git closed

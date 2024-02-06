@@ -1,0 +1,7 @@
+[shell] 
+program = "/home/anthonyoon/.cargo/bin/nu"
+
+
+[font.normal]
+family = "DroidSansM Nerd Font"
+style = "Regular"

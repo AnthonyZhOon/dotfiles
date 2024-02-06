@@ -1,0 +1,13 @@
+2024-02-04 08:37:58.087 [error] electron #926: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_CONNECTION_TIMED_OUT
+2024-02-04 08:43:38.055 [error] electron #927: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CONNECTION_TIMED_OUT
+2024-02-04 08:43:38.056 [error] electron #928: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CONNECTION_TIMED_OUT
+2024-02-04 08:43:42.151 [error] electron #930: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CONNECTION_TIMED_OUT
+2024-02-04 08:45:12.263 [error] electron #929: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_CONNECTION_TIMED_OUT
+2024-02-04 08:45:53.223 [error] electron #931: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CONNECTION_TIMED_OUT
+2024-02-04 08:45:57.319 [error] electron #932: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CONNECTION_TIMED_OUT
+2024-02-04 08:48:16.583 [error] electron #933: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CONNECTION_TIMED_OUT
+2024-02-04 08:50:56.327 [error] electron #934: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CONNECTION_TIMED_OUT
+2024-02-04 08:52:26.439 [error] electron #935: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_CONNECTION_TIMED_OUT
+2024-02-04 08:53:11.496 [error] electron #936: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CONNECTION_TIMED_OUT
+2024-02-04 08:59:40.615 [error] electron #937: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_CONNECTION_TIMED_OUT
+2024-02-04 09:06:54.791 [error] electron #938: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_CONNECTION_TIMED_OUT
