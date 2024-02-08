@@ -1,15 +1,19 @@
 theme = "kanagawa"
 
 [editor]
+scroll-lines = 1
+cursorline = true
+true-color = true
+color-modes = true
 line-number = "relative"
-shell = ["nu"]
+shell = ["bash"]
 auto-completion = true
 auto-info = true
 
 [editor.statusline]
-left = ["mode", "spinner", "file-name"]
-center = ["diagnostics"]
-right = ["version-control", "position"]
+left = ["mode", "spinner", "file-name", "file-type"]
+center = ["diagnostics", "workspace-diagnostics"]
+right = ["selections", "spacer", "version-control", "position"]
 
 [editor.lsp]
 enable = true
@@ -20,3 +24,9 @@ snippets = true
 
 [editor.indent-guides]
 render = true
+character = "|"
+
+[keys.normal]
+# Flip anchor and cursor
+space.space = "flip_selections"
+space.c = "toggle_comments"
