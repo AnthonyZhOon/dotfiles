@@ -11,7 +11,7 @@ auto-completion = true
 auto-info = true
 
 [editor.statusline]
-left = ["mode", "spinner", "file-name", "file-type"]
+left = ["mode", "spinner", "file-name", "file-type", "file-modification-indicator"]
 center = ["diagnostics", "workspace-diagnostics"]
 right = ["selections", "spacer", "version-control", "position"]
 
